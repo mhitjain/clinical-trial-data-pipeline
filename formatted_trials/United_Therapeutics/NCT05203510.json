@@ -1,0 +1,192 @@
+{
+  "clinical_study": {
+    "title": "A Study of a Mean Pulmonary Artery Pressure-Targeted Approach With Early and Rapid Treprostinil Therapy to Reverse Right Ventricular Remodeling in Participants With Pulmonary Arterial Hypertension",
+    "nct_identifier": "NCT05203510",
+    "indication": "Pulmonary Arterial Hypertension",
+    "intervention": "Parenteral Treprostinil, Oral Treprostinil",
+    "study_arms": {
+      "intervention": 1,
+      "placebo": 0
+    },
+    "number_of_participants": 52,
+    "average_age": null,
+    "age_range": [
+      "18 Years",
+      "N/A"
+    ],
+    "interventional_drug": [
+      {
+        "name": "Parenteral Treprostinil",
+        "dose": null,
+        "frequency": "per schedule specified in the arm description",
+        "formulation": "Parenteral"
+      },
+      {
+        "name": "Oral Treprostinil",
+        "dose": null,
+        "frequency": null,
+        "formulation": "Oral"
+      }
+    ],
+    "endpoints": [
+      "Change From Baseline in Right Ventricular Ejection Fraction (RVEF), as Measured by Cardiac Magnetic Resonance Imaging (cMRI) at Month 12",
+      "Change From Baseline in mPAP at Month 12",
+      "Number of Participants With Clinical Improvement From Baseline to Month 12, 24, and 36",
+      "Change From Baseline in RV-Pulmonary Artery (PA) Coupling Estimated by the Ratio of Stroke Volume by End Systolic Volume at Month 12",
+      "Change From Baseline in RV End-Diastolic Volume Index at Month 12",
+      "Change From Baseline in RV Stroke Volume Index at Month 12",
+      "Change From Baseline in 6MWD at Month 12, 24, and 36",
+      "Change From Baseline in Registry to EValuate EArly and Long-Term PAH Disease Management (REVEAL) Lite 2 Risk Score at Months 12, 24, and 36",
+      "Change From Baseline in WHO FC at Months 12, 24, and 36",
+      "Change From Baseline in NT-proBNP at Months 12, 24, and 36",
+      "Change From Baseline in Borg Dyspnea Score at Months 12, 24, and 36",
+      "Change From Baseline in RV-PA Coupling Estimated by the Ratio of Tricuspid Annular Plane Systolic Excursion by Pulmonary Artery Systolic Pressure (TAPSE/PASP) at Months 12, 24, and 36",
+      "Survival Rate: Number of Participants who Survived at Months 12, 24, and 36",
+      "Change From Baseline in mPAP at Months 24 and 36"
+    ],
+    "baseline_characteristics": []
+  },
+  "endpoints": [
+    {
+      "name": "Change From Baseline in Right Ventricular Ejection Fraction (RVEF), as Measured by Cardiac Magnetic Resonance Imaging (cMRI) at Month 12",
+      "description": "",
+      "timepoint": "Baseline, Month 12",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in mPAP at Month 12",
+      "description": "",
+      "timepoint": "Baseline, Month 12",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of Participants With Clinical Improvement From Baseline to Month 12, 24, and 36",
+      "description": "Clinical improvement is defined as meeting all 3 criteria: - improvement in six-minute walk distance (6MWD) increase ≥10% or ≥30 meters; - improvement in World Health Organization (WHO) functional class (FC) or maintenance of WHO FC I/II; - improvement in N-terminal pro-brain natriuretic peptide (NT-proBNP) decrease ≥30% or \\<300 ng/liter (L).",
+      "timepoint": "Baseline to Months 12, 24, and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in RV-Pulmonary Artery (PA) Coupling Estimated by the Ratio of Stroke Volume by End Systolic Volume at Month 12",
+      "description": "",
+      "timepoint": "Baseline, Month 12",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in RV End-Diastolic Volume Index at Month 12",
+      "description": "",
+      "timepoint": "Baseline, Month 12",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in RV Stroke Volume Index at Month 12",
+      "description": "",
+      "timepoint": "Baseline, Month 12",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in 6MWD at Month 12, 24, and 36",
+      "description": "",
+      "timepoint": "Baseline, Months 12, 24, and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in Registry to EValuate EArly and Long-Term PAH Disease Management (REVEAL) Lite 2 Risk Score at Months 12, 24, and 36",
+      "description": "",
+      "timepoint": "Baseline, Months 12, 24, and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in WHO FC at Months 12, 24, and 36",
+      "description": "",
+      "timepoint": "Baseline, Months 12, 24, and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in NT-proBNP at Months 12, 24, and 36",
+      "description": "",
+      "timepoint": "Baseline, Months 12, 24, and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in Borg Dyspnea Score at Months 12, 24, and 36",
+      "description": "",
+      "timepoint": "Baseline, Months 12, 24, and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in RV-PA Coupling Estimated by the Ratio of Tricuspid Annular Plane Systolic Excursion by Pulmonary Artery Systolic Pressure (TAPSE/PASP) at Months 12, 24, and 36",
+      "description": "",
+      "timepoint": "Baseline, Months 12, 24, and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Survival Rate: Number of Participants who Survived at Months 12, 24, and 36",
+      "description": "",
+      "timepoint": "Baseline to Months 12, 24, and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in mPAP at Months 24 and 36",
+      "description": "",
+      "timepoint": "Baseline, Months 24 and 36",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    }
+  ],
+  "baseline_measures": []
+}

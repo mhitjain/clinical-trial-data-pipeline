@@ -1,0 +1,563 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06137742",
+      "orgStudyIdInfo": {
+        "id": "C5001001"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2024-514064-17-00",
+          "type": "REGISTRY",
+          "domain": "CTIS (EU)"
+        }
+      ],
+      "organization": {
+        "fullName": "Pfizer",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Learn About the Study Medicine Called PF-07868489 in Healthy Adult People and in People With Pulmonary Arterial Hypertension",
+      "officialTitle": "A PHASE 1/2, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY TO EVALUATE THE SAFETY, TOLERABILITY, PHARMACOKINETICS, AND PHARMACODYNAMICS OF SINGLE ESCALATING DOSES OF PF-07868489 IN HEALTHY ADULT PARTICIPANTS AND, ADDITIONALLY, CLINICAL ACTIVITY OF REPEAT DOSES IN PARTICIPANTS WITH PULMONARY ARTERIAL HYPERTENSION"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-11-17",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-02-13",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-02-13",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-11-14",
+      "studyFirstSubmitQcDate": "2023-11-14",
+      "studyFirstPostDateStruct": {
+        "date": "2023-11-18",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-20",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Pfizer",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the study is to learn how the study medicine called PF-07868489 is tolerated and acts in healthy adult people and people with pulmonary arterial hypertension (PAH).\n\nPart A:\n\nAn investigator- and participant-blind, sponsor-open, placebo-controlled, single ascending dose study to assess the safety, tolerability, and pharmacokinetics (PK) of PF-07868489 in healthy adult participants.\n\nPart B:\n\nA 24-week, randomized, double blind, placebo-controlled study to assess the safety, tolerability, PK, and pharmacodynamics (PD) of PF-07868489 in adult participants with PAH."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pulmonary Arterial Hypertension"
+      ],
+      "keywords": [
+        "pulmonary",
+        "high lung artery pressure"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Part A is a sequential study. Part B is a parallel group study.",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "Part A is an investigator- and participant-blind, sponsor-open, placebo-controlled, single ascending dose.\n\nPart B is a 24-week, randomized, double blind, placebo-controlled study.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 90,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "PF-07868489",
+          "type": "EXPERIMENTAL",
+          "description": "single subcutaneous injection (Part A); 6 subcutaneous injections at regular intervals (Part B)",
+          "interventionNames": [
+            "Drug: PF-07868489"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "single subcutaneous injection (Part A); 6 subcutaneous injections at regular intervals (Part B)",
+          "interventionNames": [
+            "Drug: Placebo for PF-07868489"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "PF-07868489",
+          "description": "Experimental Treatment",
+          "armGroupLabels": [
+            "PF-07868489"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo for PF-07868489",
+          "description": "Placebo",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants with Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+          "description": "Part A",
+          "timeFrame": "Baseline up to Day 113."
+        },
+        {
+          "measure": "Number of Participants With Change From Baseline in Laboratory Tests Results",
+          "description": "Part A",
+          "timeFrame": "Baseline up to Day 113"
+        },
+        {
+          "measure": "Number of Participants With Vital Sign Abnormalities",
+          "description": "Part A",
+          "timeFrame": "Baseline up to Day 113"
+        },
+        {
+          "measure": "Number of Participants With Change From Baseline in Electrocardiogram (ECG) Parameters",
+          "description": "Part A",
+          "timeFrame": "Baseline up to Day 113"
+        },
+        {
+          "measure": "Number of Participants with Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+          "description": "Part B",
+          "timeFrame": "Baseline up to Day 253"
+        },
+        {
+          "measure": "Number of Participants With Change From Baseline in Laboratory Tests Results",
+          "description": "Part B",
+          "timeFrame": "Baseline up to Day 253"
+        },
+        {
+          "measure": "Number of Participants With Vital Sign Abnormalities",
+          "description": "Part B",
+          "timeFrame": "Baseline up to Day 253"
+        },
+        {
+          "measure": "Number of Participants With Change From Baseline in Electrocardiogram (ECG) Parameters",
+          "description": "Part B",
+          "timeFrame": "Baseline up to Day 253"
+        },
+        {
+          "measure": "Change From Baseline in N-Terminal Prohormone Brain Natriuretic Peptide (NT-proBNP) Concentration at Week24",
+          "description": "repeated doses",
+          "timeFrame": "Baseline, Week 24"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Area Under the Plasma Concentration-time Profile From Time Zero to the Time of Last Quantifiable Concentration (AUClast)",
+          "description": "single dose",
+          "timeFrame": "Pre dose, 8, 12, 24, 48,72,96,168,336 hours post dose"
+        },
+        {
+          "measure": "Area Under the Curve From Time Zero to Extrapolated Infinite Time (AUCinf)",
+          "description": "single dose",
+          "timeFrame": "Pre dose, 8, 12, 24, 48,72,96,168,336 hours post dose"
+        },
+        {
+          "measure": "Maximum Observed Plasma Concentration (Cmax)",
+          "description": "single dose",
+          "timeFrame": "Pre dose, 8, 12, 24, 48,72,96,168,336 hours post dose"
+        },
+        {
+          "measure": "Time to Reach Maximum Observed Plasma Concentration (Tmax)",
+          "description": "single dose",
+          "timeFrame": "4-7 days"
+        },
+        {
+          "measure": "Incidence of Anti-Drug Antibody (ADA)",
+          "description": "single dose",
+          "timeFrame": "Baseline and up to week 16"
+        },
+        {
+          "measure": "Plasma Decay Half-Life (t1/2)",
+          "description": "single dose",
+          "timeFrame": "Day 113"
+        },
+        {
+          "measure": "Minimum Observed Plasma Trough Concentration (Cmin)",
+          "description": "repeat doses",
+          "timeFrame": "Day 253"
+        },
+        {
+          "measure": "Plasma Decay Half-Life (t1/2)",
+          "description": "repeat doses",
+          "timeFrame": "Day 253"
+        },
+        {
+          "measure": "Incidence of Anti-Drug Antibody (ADA)",
+          "description": "repeated doses",
+          "timeFrame": "Baseline and up to Day 253"
+        },
+        {
+          "measure": "PVR",
+          "description": "repeated doses",
+          "timeFrame": "Baseline, Week 24"
+        },
+        {
+          "measure": "6MWD",
+          "description": "repeated doses",
+          "timeFrame": "Baseline, Week 24"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria Part A:\n\n* overtly healthy\n* Body mass index (BMI) of 16 to 32 kg/m2; and a total body weight \\>50 kg.\n\nKey Exclusion Criteria Part A:\n\n* clinically significant hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurological, infections or allergic disease.\n* smoking more than 10 cigarettes (or equivalent) per day or smoking history ≥10 pack-years.\n\nKey Inclusion Criteria Part B:\n\n* diagnosis of pulmonary arterial hypertension (PAH)\n* stable dose of standard of care PAH vasodilators\n* BMI 16 to 32 kg/m2; and a total body weight \\>45 kg.\n* 6MWD ≥ 150 and ≤ 450.\n* Pre-randomization RHC documenting a minimum of PVR ≥ 400 dyn ∙sec/cm5.\n\nKey Exclusion Criteria Part B:\n\n* Any medical or psychiatric condition or laboratory abnormality.\n* Stopped receiving pulmonary hypertension chronic general supportive therapy 90 days prior to Day 1.\n* Pulmonary capillary wedge pressure \\> 15 mmHg on right heart catheterization (RHC) conducted during Screening.\n* History of severe allergic or anaphylactic reaction or hypersensitivity to recombinant proteins or excipients in investigational product.\n* Major surgery within 8 weeks prior to randomization.\n* Participants who smoke more than 10 cigarettes (or equivalent) per day or has a smoking history ≥10 pack-years.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Pfizer CT.gov Call Center",
+          "role": "CONTACT",
+          "phone": "1-800-718-1021",
+          "email": "ClinicalTrials.gov_Inquiries@pfizer.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Pfizer CT.gov Call Center",
+          "affiliation": "Pfizer",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Anaheim Clinical Trials, LLC",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Anaheim",
+          "state": "California",
+          "zip": "92801",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.83529,
+            "lon": -117.9145
+          }
+        },
+        {
+          "facility": "University of Colorado Anschutz Medical Campus",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        },
+        {
+          "facility": "Guangdong Provincial People's Hospital",
+          "status": "RECRUITING",
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "zip": "510080",
+          "country": "China",
+          "geoPoint": {
+            "lat": 23.11667,
+            "lon": 113.25
+          }
+        },
+        {
+          "facility": "The Second Xiangya Hospital of Central South University",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Changsha",
+          "state": "Hunan",
+          "zip": "410011",
+          "country": "China",
+          "geoPoint": {
+            "lat": 28.19874,
+            "lon": 112.97087
+          }
+        },
+        {
+          "facility": "Kobe University Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Kobe",
+          "state": "Hyogo",
+          "zip": "650-0017",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.6913,
+            "lon": 135.183
+          }
+        },
+        {
+          "facility": "St. Marianna University Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Kawasaki",
+          "state": "Kanagawa",
+          "zip": "216-8511",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.52056,
+            "lon": 139.71722
+          }
+        },
+        {
+          "facility": "Tohoku University Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Sendai",
+          "state": "Miyagi",
+          "zip": "980-8574",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 38.26667,
+            "lon": 140.86667
+          }
+        },
+        {
+          "facility": "Yokohama City University Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Kanagawa",
+          "zip": "236-0004",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 37.58333,
+            "lon": 139.91667
+          }
+        },
+        {
+          "facility": "National Hospital Organization Okayama Medical Center",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Okayama",
+          "zip": "701-1154",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.65,
+            "lon": 133.93333
+          }
+        },
+        {
+          "facility": "Gachon University Gil Medical Center",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Namdong-gu",
+          "state": "Incheon-gwangyeoksi [incheon]",
+          "zip": "21565",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Seoul National University Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Seoul",
+          "state": "Seoul-teukbyeolsi [seoul]",
+          "zip": "03080",
+          "country": "Korea, Republic of",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Severance Hospital, Yonsei University Health System",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Seoul",
+          "state": "Seoul-teukbyeolsi [seoul]",
+          "zip": "03722",
+          "country": "Korea, Republic of",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Samsung Medical Center",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Seoul",
+          "state": "Seoul-teukbyeolsi [seoul]",
+          "zip": "06351",
+          "country": "Korea, Republic of",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Hammersmith Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "London",
+          "state": "London, CITY OF",
+          "zip": "W12 0HS",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "To obtain contact information for a study center near you, click here.",
+          "url": "https://pmiform.com/clinical-trial-info-request?StudyID=C5001001"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.",
+      "url": "https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-05-19"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000081029",
+          "term": "Pulmonary Arterial Hypertension"
+        },
+        {
+          "id": "D065627",
+          "term": "Familial Primary Pulmonary Hypertension"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D006976",
+          "term": "Hypertension, Pulmonary"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ],
+      "browseLeaves": [
+        {
+          "id": "M10024",
+          "name": "Hypertension",
+          "asFound": "Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M2261",
+          "name": "Pulmonary Arterial Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M10027",
+          "name": "Hypertension, Pulmonary",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M30541",
+          "name": "Familial Primary Pulmonary Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M17400",
+          "name": "Vascular Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M11168",
+          "name": "Lung Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M14977",
+          "name": "Respiratory Tract Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "T4807",
+          "name": "Pulmonary Arterial Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        }
+      ],
+      "browseBranches": [
+        {
+          "abbrev": "BC14",
+          "name": "Heart and Blood Diseases"
+        },
+        {
+          "abbrev": "All",
+          "name": "All Conditions"
+        },
+        {
+          "abbrev": "BC08",
+          "name": "Respiratory Tract (Lung and Bronchial) Diseases"
+        },
+        {
+          "abbrev": "Rare",
+          "name": "Rare Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

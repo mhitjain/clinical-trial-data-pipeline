@@ -1,0 +1,237 @@
+{
+  "clinical_study": {
+    "title": "A Study to Investigate the Safety and Efficacy of KER-012 in Combination With Background Therapy in Adult Participants With Pulmonary Arterial Hypertension (PAH) (TROPOS Study).",
+    "nct_identifier": "NCT05975905",
+    "indication": "Pulmonary Arterial Hypertension",
+    "intervention": "Dose A KER-012, Dose B KER-012, Dose C KER-012, Placebo for 24 Weeks followed by Dose B KER-012 for 72 weeks",
+    "study_arms": {
+      "intervention": 3,
+      "placebo": 1
+    },
+    "number_of_participants": 113,
+    "average_age": null,
+    "age_range": [
+      "18 Years",
+      "N/A"
+    ],
+    "interventional_drug": [
+      {
+        "name": "Dose A KER-012",
+        "dose": null,
+        "frequency": "Q4W",
+        "formulation": null
+      },
+      {
+        "name": "Dose B KER-012",
+        "dose": null,
+        "frequency": "Q4W",
+        "formulation": null
+      },
+      {
+        "name": "Dose C KER-012",
+        "dose": null,
+        "frequency": "Q4W",
+        "formulation": null
+      },
+      {
+        "name": "KER-012",
+        "dose": "Dose B",
+        "frequency": "Q4W",
+        "formulation": "SC"
+      }
+    ],
+    "endpoints": [
+      "Change from Baseline in PVR (Pulmonary Vascular Resistance)",
+      "Change from Baseline in the 6MWD",
+      "Incidence of treatment-emergent adverse events (TEAEs)",
+      "Number of treatment-related TEAEs",
+      "Number of discontinuations due to TEAEs",
+      "Change from baseline in Systolic and Diastolic Blood Pressure",
+      "Change from baseline in QTcF intervals",
+      "Incidence of Antidrug Antibodies (ADA)",
+      "Evaluate the changes from baseline in the concentration of the PAH biomarker, NT-proBNP in blood samples",
+      "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- mPAP",
+      "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- CO",
+      "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- PAWP",
+      "Evaluate improvement in functional assessment of KER-012 compared to Placebo in participants on background PAH therapy",
+      "Number of participants who experienced events indicative of clinical worsening of pulmonary arterial hypertension (PAH)",
+      "Population PK predicted maximum concentration (Cmax) of KER-012",
+      "Population PK predicted Area under concentration curve (AUC) of KER-012",
+      "Evaluate improvement in risk stratifications of KER-012 in participants on background PAH therapy"
+    ],
+    "baseline_characteristics": []
+  },
+  "endpoints": [
+    {
+      "name": "Change from Baseline in PVR (Pulmonary Vascular Resistance)",
+      "description": "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background pulmonary arterial hypertension (PAH) therapy",
+      "timepoint": "Baseline and Week 24",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change from Baseline in the 6MWD",
+      "description": "Evaluate the effect of KER-012 on exercise capacity compared to Placebo in participants on background PAH therapy",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Incidence of treatment-emergent adverse events (TEAEs)",
+      "description": "A TEAE is any untoward medical occurrence in a study participant occurring after the initiation of a study treatment that does not necessarily have to have a causal relationship with this treatment. A TEAE can therefore be any unfavorable and unintended sign, symptom, or disease temporally associated with the use of a medicinal product, whether or not related to the medicinal product.",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of treatment-related TEAEs",
+      "description": "A treatment-related TEAE is any untoward medical occurrence in a study participant occurring after the initiation of a study treatment that has a causal relationship with this treatment.",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of discontinuations due to TEAEs",
+      "description": "A treatment-related TEAE is any untoward medical occurrence in a study participant occurring after the initiation of a study treatment that has a causal relationship with this treatment. A TEAE can therefore be any unfavorable and unintended sign, symptom, or disease temporally associated with the use of a medicinal product, whether or not related to the medicinal product.",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change from baseline in Systolic and Diastolic Blood Pressure",
+      "description": "Systolic and Diastolic blood pressure measured in mmHg",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change from baseline in QTcF intervals",
+      "description": "QTcF intervals measured in msec via ECGs",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Incidence of Antidrug Antibodies (ADA)",
+      "description": "The amount of ADA measured in serum",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Evaluate the changes from baseline in the concentration of the PAH biomarker, NT-proBNP in blood samples",
+      "description": "Change from Baseline in NT-proBNP by visit",
+      "timepoint": "Up to week 24 (primary treatment period) and up to Week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- mPAP",
+      "description": "Change from Baseline in mean pulmonary artery pressure (mPAP)",
+      "timepoint": "Up to week 24 (primary treatment period) and up to Week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- CO",
+      "description": "Change from Baseline in cardiac output (CO)",
+      "timepoint": "Up to week 24 (primary treatment period) and up to Week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- PAWP",
+      "description": "Change from Baseline in pulmonary artery wedge pressure (PAWP)",
+      "timepoint": "Up to week 24 (primary treatment period) and up to Week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Evaluate improvement in functional assessment of KER-012 compared to Placebo in participants on background PAH therapy",
+      "description": "Proportion of participants who achieved improvement from Baseline in NYHA FC/WHO by visit",
+      "timepoint": "Up to week 24 (primary treatment period) and up to Week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of participants who experienced events indicative of clinical worsening of pulmonary arterial hypertension (PAH)",
+      "description": "Events that indicate clinical worsening of PAH include death, non-elective PAH-related hospitalization and/or right heart failure inclusive of lung or heart/lung transplant, or atrial septostomy, need to initiate an approved PAH SOC rescue therapy, or functional deterioration (worsened WHO Functional Class AND 15% decrease in 6MWD).",
+      "timepoint": "Up to week 24 (primary treatment period) and up to Week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Population PK predicted maximum concentration (Cmax) of KER-012",
+      "description": "Cmax is a measure of the maximum concentration of a drug in the serum after the dose is given.",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Population PK predicted Area under concentration curve (AUC) of KER-012",
+      "description": "AUC is a measure of the area under the serum concentration curve after dose is given.",
+      "timepoint": "Through week 24 (primary treatment period) and Through week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Evaluate improvement in risk stratifications of KER-012 in participants on background PAH therapy",
+      "description": "Proportion of participants who achieve improvement/or maintain low risk in ESC/ ERC 4-strata risk category assessment",
+      "timepoint": "Up to week 24 (primary treatment period) and up to Week 96 (extension period)",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    }
+  ],
+  "baseline_measures": []
+}

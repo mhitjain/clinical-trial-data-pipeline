@@ -1,0 +1,1714 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05036135",
+      "orgStudyIdInfo": {
+        "id": "AV-101-002"
+      },
+      "organization": {
+        "fullName": "Aerovate Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of AV-101 (Dry Powder Inhaled Imatinib) in Patients With Pulmonary Arterial Hypertension (PAH)",
+      "officialTitle": "IMPAHCT: A Phase 2b/3, Randomized, Double-Blind, Placebo-Controlled, 24-Week Dose Ranging and Confirmatory Study to Evaluate the Safety and Efficacy of AV-101 in Patients With Pulmonary Arterial Hypertension (PAH)",
+      "acronym": "IMPAHCT"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-08",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "The IMPAHCT study demonstrated that while inhaled imatinib was well tolerated, it did not prove to be efficacious at any of the doses of AV-101 evaluated in the study.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-12-02",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-08-16",
+      "studyFirstSubmitQcDate": "2021-08-30",
+      "studyFirstPostDateStruct": {
+        "date": "2021-09-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-08-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-08-23",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Aerovate Therapeutics",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "IMPAHCT: Inhaled iMatinib Pulmonary Arterial Hypertension Clinical Trial is a Phase 2b/Phase 3 study to evaluate the safety and efficacy of AV-101 (dry powder inhaled imatinib) in patients with Pulmonary Arterial Hypertension (PAH). The Phase 2b part of the study will assess three doses to establish an optimal dose for the Phase 3 part of the study. The Phase 2b primary endpoint will be the placebo corrected change in pulmonary vascular resistance (PVR). The Phase 3 primary endpoint will be the placebo corrected change in 6-minute walk distance (6MWD) after 24 weeks of treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pulmonary Arterial Hypertension"
+      ],
+      "keywords": [
+        "Pulmonary Arterial Hypertension",
+        "Lungs",
+        "Pulmonary",
+        "PAH",
+        "AV-101",
+        "imatinib",
+        "IMPAHCT"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 202,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "AV-101 10 mg",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: AV-101"
+          ]
+        },
+        {
+          "label": "AV-101 35 mg",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: AV-101"
+          ]
+        },
+        {
+          "label": "AV-101 70 mg",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: AV-101"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "AV-101",
+          "description": "AV-101 (imatinib) administered via dry powder inhalation",
+          "armGroupLabels": [
+            "AV-101 10 mg",
+            "AV-101 35 mg",
+            "AV-101 70 mg"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Placebo administered via dry powder inhalation",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Phase 2b: Change from Baseline in Pulmonary Vascular Resistance (PVR)",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 3: Change from Baseline in Six Minute Walk Distance (6MWD)",
+          "timeFrame": "24 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Phase 2b: Change from Baseline in N-terminal pro B-type natriuretic peptide (NT-proBNP)",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 2b: Change from Baseline in Six Minute Walk Distance (6MWD)",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 2b: Time to Clinical Worsening",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 2b: Proportion of Subjects with Improvement in WHO Functional Class",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 2b: Change from Baseline in Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) Lite 2.0 Risk Score",
+          "description": "REVEAL Lite 2.0 risk scores range from 1 to 14; a higher score represents higher risk",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 2b: Change from Baseline in Health-Related Quality of Life emPHasis-10 Questionnaire Score",
+          "description": "emPHasis-10 questionnaire scores range from 0 - 50; a higher score represents a higher symptom burden",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 3: Change from Baseline in NT-proBNP",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 3: Time to Clinical Worsening",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 3: Proportion of Subjects with Improvement in WHO Functional Class",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 3: Change from Baseline in Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) Lite 2.0 Risk Score",
+          "description": "REVEAL Lite 2.0 risk scores range from 1 to 14; a higher score represents higher risk",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Phase 3: Change from Baseline in Pulmonary Arterial Hypertension-Symptoms and Impact (PAH-SYMPACT) Questionnaire Score",
+          "description": "PAH-SYMPACT is a patient reported outcome instrument developed to assess PAH symptoms and impacts",
+          "timeFrame": "24 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria\n\n* PAH belonging to one of the subgroups:\n\n  1. I/HPAH, PAH-CTD,\n  2. PAH due to drugs and/or toxins/chemicals (having been in the care of the investigator for at least one year with no relapses of drug or toxin/chemical abuse),\n  3. HIV associated or\n  4. PAH due to repaired congenital heart disease (at least 1 year since repair)\n* World Health Organization (WHO) Functional Class II, III or IV symptoms\n* Stable concomitant background therapy of at least one PAH approved medications\n* Able to walk a distance of at least 100 m but no more than 475 m during the Screening 6-minute walk tests.\n\nKey Exclusion Criteria\n\n* Pulmonary hypertension (PH) belonging to Groups 2 to 5\n* A history of left-sided heart disease\n* Pregnant or breast-feeding females\n\nAdditional criteria may apply, per protocol",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Arizona Pulmonary Specialists, Ltd.",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85012",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "University of Arizona, Department of Medicine",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85724",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.22174,
+            "lon": -110.92648
+          }
+        },
+        {
+          "facility": "UCLA/David Geffen School of Medicine-Pulmonary and Criticial Care",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90024",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Kaiser Permanente Los Angeles Medical Center",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90027",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Cedars-Sinai Medical Center, Pulmonary & Critical Care",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90048",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Dept of Veterans Affairs Greater Los Angeles Healthcare System",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90073",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "UC Davis Medical Center",
+          "city": "Sacramento",
+          "state": "California",
+          "zip": "95817",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.58157,
+            "lon": -121.4944
+          }
+        },
+        {
+          "facility": "University of California",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77493,
+            "lon": -122.41942
+          }
+        },
+        {
+          "facility": "LA Biomedical Research Institute Harbor",
+          "city": "Torrance",
+          "state": "California",
+          "zip": "90509",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.83585,
+            "lon": -118.34063
+          }
+        },
+        {
+          "facility": "University of Colorado Denver",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        },
+        {
+          "facility": "National Jewish Health",
+          "city": "Denver",
+          "state": "Colorado",
+          "zip": "80206",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.73915,
+            "lon": -104.9847
+          }
+        },
+        {
+          "facility": "George Washington University Medical Faculty Associates, Inc.",
+          "city": "Washington",
+          "state": "District of Columbia",
+          "zip": "20073",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        },
+        {
+          "facility": "Mayo Clinic Florida",
+          "city": "Jacksonville",
+          "state": "Florida",
+          "zip": "32224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.33218,
+            "lon": -81.65565
+          }
+        },
+        {
+          "facility": "Orlando Heart Center",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32804",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "facility": "Emory University",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Indiana University Health",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "University of Iowa Hospitals & Clinics",
+          "city": "Iowa City",
+          "state": "Iowa",
+          "zip": "52242",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66113,
+            "lon": -91.53017
+          }
+        },
+        {
+          "facility": "University of Kansas Medical Center",
+          "city": "Kansas City",
+          "state": "Kansas",
+          "zip": "66160",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.11417,
+            "lon": -94.62746
+          }
+        },
+        {
+          "facility": "Tufts Medical Center, Inc.",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02111",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "University of Michigan",
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.27756,
+            "lon": -83.74088
+          }
+        },
+        {
+          "facility": "University of Minnesota",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55455",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.97997,
+            "lon": -93.26384
+          }
+        },
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "Saint Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "University of Nebraska Medical Center- Hematology/Oncology Section",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68198",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.25626,
+            "lon": -95.94043
+          }
+        },
+        {
+          "facility": "The Unviersity of New Mexico - UNM Hospitals",
+          "city": "Albuquerque",
+          "state": "New Mexico",
+          "zip": "87131",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.08449,
+            "lon": -106.65114
+          }
+        },
+        {
+          "facility": "New York-Presbyterian Brooklyn Methodist Hospital",
+          "city": "Brooklyn",
+          "state": "New York",
+          "zip": "11215",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.6501,
+            "lon": -73.94958
+          }
+        },
+        {
+          "facility": "NYU Langone Seaport",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Duke University Medical Center - Duke South Clinic",
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.99403,
+            "lon": -78.89862
+          }
+        },
+        {
+          "facility": "The Lindner Center for Research and Education",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45219",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12713,
+            "lon": -84.51435
+          }
+        },
+        {
+          "facility": "University of Cincinnati",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45267",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12713,
+            "lon": -84.51435
+          }
+        },
+        {
+          "facility": "The Ohio State University Wexner Medical Center",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Bend Memorial Clinic",
+          "city": "Oregon City",
+          "state": "Oregon",
+          "zip": "97701",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.35734,
+            "lon": -122.60676
+          }
+        },
+        {
+          "facility": "Hospital of the University of Pennsylvania",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95233,
+            "lon": -75.16379
+          }
+        },
+        {
+          "facility": "Thomas Jefferson University",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19107",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95233,
+            "lon": -75.16379
+          }
+        },
+        {
+          "facility": "UPMC Presbyterian Hospital",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15213",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "Stat Care Pulmonary Consultants, PLLC",
+          "city": "Knoxville",
+          "state": "Tennessee",
+          "zip": "37919",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.96064,
+            "lon": -83.92074
+          }
+        },
+        {
+          "facility": "Vanderbilt University Medical Center",
+          "city": "Nashville",
+          "state": "Tennessee",
+          "zip": "37232",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.16589,
+            "lon": -86.78444
+          }
+        },
+        {
+          "facility": "Baylor University Medical Center",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75246",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "Houston Methodist Hospital",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Sentara Medical Group - Sentara Pulmonary & Critical Care Specialists",
+          "city": "Norfolk",
+          "state": "Virginia",
+          "zip": "23507",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.84681,
+            "lon": -76.28522
+          }
+        },
+        {
+          "facility": "Hospital Britanico de Buenos Aires",
+          "city": "Buenos Aires",
+          "zip": "1134",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.61315,
+            "lon": -58.37723
+          }
+        },
+        {
+          "facility": "Nexo Salud Investigación Clínica",
+          "city": "Buenos Aires",
+          "zip": "1425",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.61315,
+            "lon": -58.37723
+          }
+        },
+        {
+          "facility": "Sanatorio de la Trinidad Mitre",
+          "city": "Buenos Aires",
+          "zip": "C1039AAO",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.61315,
+            "lon": -58.37723
+          }
+        },
+        {
+          "facility": "Cardiología Palermo",
+          "city": "Caba",
+          "zip": "1425",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.61315,
+            "lon": -58.37723
+          }
+        },
+        {
+          "facility": "Insituto Medico DAMIC",
+          "city": "Córdoba",
+          "zip": "5009",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -31.4135,
+            "lon": -64.18105
+          }
+        },
+        {
+          "facility": "Hospital Italiano de Cordoba",
+          "city": "Córdoba",
+          "zip": "X5004FJE",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -31.4135,
+            "lon": -64.18105
+          }
+        },
+        {
+          "facility": "Hospital Dr. Jose Maria Cullen",
+          "city": "Santa Fe",
+          "zip": "S300EOZ",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -31.63333,
+            "lon": -60.7
+          }
+        },
+        {
+          "facility": "Royal Prince Alfred Hospital",
+          "city": "Camperdown",
+          "state": "New South Wales",
+          "zip": "2050",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -33.88965,
+            "lon": 151.17642
+          }
+        },
+        {
+          "facility": "Concord Repatriation General Hospital",
+          "city": "Concord West",
+          "state": "New South Wales",
+          "zip": "2138",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -33.84809,
+            "lon": 151.08609
+          }
+        },
+        {
+          "facility": "Nepean Hospital",
+          "city": "Kingswood",
+          "state": "New South Wales",
+          "zip": "2747",
+          "country": "Australia"
+        },
+        {
+          "facility": "Westmead Hospital",
+          "city": "Westmead",
+          "state": "New South Wales",
+          "zip": "2145",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -33.80383,
+            "lon": 150.98768
+          }
+        },
+        {
+          "facility": "Sunshine Coast University Hospital",
+          "city": "Birtinya",
+          "state": "Queensland",
+          "zip": "4575",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -26.74322,
+            "lon": 153.11913
+          }
+        },
+        {
+          "facility": "The Prince Charles Hospital",
+          "city": "Chermside",
+          "state": "Queensland",
+          "zip": "4032",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -27.38472,
+            "lon": 153.03062
+          }
+        },
+        {
+          "facility": "The Alfred Hospital",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "zip": "3004",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.814,
+            "lon": 144.96332
+          }
+        },
+        {
+          "facility": "Royal Adelaide Hospital",
+          "city": "Adelaide",
+          "zip": "5000",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -34.92866,
+            "lon": 138.59863
+          }
+        },
+        {
+          "facility": "Fiona Stanley Hospital",
+          "city": "Murdoch",
+          "zip": "6150",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -32.06987,
+            "lon": 115.83757
+          }
+        },
+        {
+          "facility": "AKH - Medizinische Universitat Wien",
+          "city": "Vienna",
+          "zip": "1090",
+          "country": "Austria",
+          "geoPoint": {
+            "lat": 48.20849,
+            "lon": 16.37208
+          }
+        },
+        {
+          "facility": "Hopital Erasme - Cliniques Universitaires de Bruxelles",
+          "city": "Brussels",
+          "zip": "1070",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.85045,
+            "lon": 4.34878
+          }
+        },
+        {
+          "facility": "UZ Leuven",
+          "city": "Leuven",
+          "zip": "3000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.87959,
+            "lon": 4.70093
+          }
+        },
+        {
+          "facility": "Santa Casa de Misericordia de Porto Alegre",
+          "city": "Porto Alegre",
+          "zip": "90035-074",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -30.03306,
+            "lon": -51.23
+          }
+        },
+        {
+          "facility": "Heart Institute - University of Sao Paulo",
+          "city": "São Paulo",
+          "zip": "05403",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        },
+        {
+          "facility": "The Governors of the University of Calgary",
+          "city": "Calgary",
+          "state": "Alberta",
+          "zip": "T2N 1N4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 51.05011,
+            "lon": -114.08529
+          }
+        },
+        {
+          "facility": "University of Alberta Hospital",
+          "city": "Edmonton",
+          "state": "Alberta",
+          "zip": "T6G 2B7",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 53.55014,
+            "lon": -113.46871
+          }
+        },
+        {
+          "facility": "London Health Science Centre",
+          "city": "London",
+          "state": "Ontario",
+          "zip": "N6A 5W9",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 42.98339,
+            "lon": -81.23304
+          }
+        },
+        {
+          "facility": "Jewish General Hospital",
+          "city": "Montréal",
+          "state": "Quebec",
+          "zip": "H3T 1E2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Centro de Investigaciones Clinicas de la Universidad Catolica",
+          "city": "Santiago",
+          "zip": "8330024",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Peking Union Medical College Hospital",
+          "city": "Beijing",
+          "zip": "100730",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        },
+        {
+          "facility": "Chongqing Medical University - The First Affiliated Hospital",
+          "city": "Chongqing",
+          "zip": "40016",
+          "country": "China",
+          "geoPoint": {
+            "lat": 29.56278,
+            "lon": 106.55278
+          }
+        },
+        {
+          "facility": "Guangdong Provincial People's Hospital",
+          "city": "Guangdong",
+          "zip": "510000",
+          "country": "China"
+        },
+        {
+          "facility": "Central South University - The Second Xiangya Hospital",
+          "city": "Hunan",
+          "zip": "410011",
+          "country": "China"
+        },
+        {
+          "facility": "Yanan Hospital of Kunming City",
+          "city": "Kunming",
+          "zip": "650051",
+          "country": "China",
+          "geoPoint": {
+            "lat": 25.03889,
+            "lon": 102.71833
+          }
+        },
+        {
+          "facility": "Gansu Provincial People's Hospital",
+          "city": "Lanzhou",
+          "zip": "730000",
+          "country": "China",
+          "geoPoint": {
+            "lat": 36.05701,
+            "lon": 103.83987
+          }
+        },
+        {
+          "facility": "Southeast University (SEU) - Zhongda Hospital",
+          "city": "Nanjing",
+          "zip": "210009",
+          "country": "China",
+          "geoPoint": {
+            "lat": 32.06167,
+            "lon": 118.77778
+          }
+        },
+        {
+          "facility": "Shanghai Pulmonary Hospital",
+          "city": "Shanghai",
+          "zip": "200437",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.22222,
+            "lon": 121.45806
+          }
+        },
+        {
+          "facility": "Tianjin Medical University General Hospital",
+          "city": "Tianjin",
+          "zip": "300052",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.14222,
+            "lon": 117.17667
+          }
+        },
+        {
+          "facility": "Vseobecna fakultni nemocnice v Praze",
+          "city": "Praha",
+          "zip": "128 21",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Groupement Hospitalier Sud - Hôpital Bicêtre",
+          "city": "Le Kremlin-Bicêtre",
+          "state": "Cedex",
+          "zip": "94275",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.81471,
+            "lon": 2.36073
+          }
+        },
+        {
+          "facility": "Hôpital Cardio-Vasculaire et Pneumologique Louis Pradel",
+          "city": "Bron",
+          "zip": "69677",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.73333,
+            "lon": 4.91667
+          }
+        },
+        {
+          "facility": "Hôpital Nord - CHU Marseille",
+          "city": "Marseille",
+          "zip": "94275",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.29551,
+            "lon": 5.38958
+          }
+        },
+        {
+          "facility": "Hopital Arnaud de Villeneuve",
+          "city": "Montpellier",
+          "zip": "34295",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.61092,
+            "lon": 3.87723
+          }
+        },
+        {
+          "facility": "Les Hôpitaux Universitaires de Strasbourg",
+          "city": "Strasbourg",
+          "zip": "67091",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.58392,
+            "lon": 7.74553
+          }
+        },
+        {
+          "facility": "Universitaetsklinikum Carl Gustav Carus TU Dresden",
+          "city": "Dresden",
+          "zip": "1307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Universitaetsklinikum Giessen und Marburg GmbH Standort Giessen",
+          "city": "Giesen",
+          "zip": "35292",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.19716,
+            "lon": 9.8989
+          }
+        },
+        {
+          "facility": "Universitaetsklinikum Heidelberg",
+          "city": "Heidelberg",
+          "zip": "69126",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.40768,
+            "lon": 8.69079
+          }
+        },
+        {
+          "facility": "München Klinik Bogenhausen",
+          "city": "München",
+          "zip": "81925",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.13743,
+            "lon": 11.57549
+          }
+        },
+        {
+          "facility": "University General Hospital Attikon",
+          "city": "Athens",
+          "zip": "10676",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 37.97945,
+            "lon": 23.71622
+          }
+        },
+        {
+          "facility": "Cardiosurgery Hospital",
+          "city": "Kallithéa",
+          "zip": "17674",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 37.95,
+            "lon": 23.7
+          }
+        },
+        {
+          "facility": "AHEPA General Hospital of Thessaloniki",
+          "city": "Thessaloníki",
+          "zip": "54637",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 40.64361,
+            "lon": 22.93086
+          }
+        },
+        {
+          "facility": "The Lady Davis Carmel Medical Center",
+          "city": "Haifa",
+          "zip": "34362",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.81841,
+            "lon": 34.9885
+          }
+        },
+        {
+          "facility": "Hadassah University Hospital - Ein Kerem",
+          "city": "Jerusalem",
+          "zip": "91999",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 31.76904,
+            "lon": 35.21633
+          }
+        },
+        {
+          "facility": "Tel Aviv Sourasky Medical Center",
+          "city": "Tel Aviv",
+          "zip": "64239",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.08088,
+            "lon": 34.78057
+          }
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria Ospedali Riuniti - Foggia",
+          "city": "Foggia",
+          "zip": "71122",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 41.45845,
+            "lon": 15.55188
+          }
+        },
+        {
+          "facility": "Ospedale San Giuseppe - Fatebenefratelli",
+          "city": "Milan",
+          "zip": "20123",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.46427,
+            "lon": 9.18951
+          }
+        },
+        {
+          "facility": "Azienda Socio Sanitaria Territoriale di Monza",
+          "city": "Monza",
+          "zip": "20900",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.58005,
+            "lon": 9.27246
+          }
+        },
+        {
+          "facility": "Azienda Ospedaliera Vincenzo Monaldi",
+          "city": "Napoli",
+          "zip": "80131",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 40.85216,
+            "lon": 14.26811
+          }
+        },
+        {
+          "facility": "Istituto Mediterraneo per i Trapianti e Terapie ad Alta Specializzazione",
+          "city": "Palermo",
+          "zip": "90127",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 38.13205,
+            "lon": 13.33561
+          }
+        },
+        {
+          "facility": "Fondazione IRCCS Policlinico San Matteo",
+          "city": "Pavia",
+          "zip": "27100",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.19205,
+            "lon": 9.15917
+          }
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Policlinico Umberto I",
+          "city": "Rome",
+          "zip": "137",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 41.89193,
+            "lon": 12.51133
+          }
+        },
+        {
+          "facility": "Pauls Stradins Clinical University Hospital",
+          "city": "Riga",
+          "zip": "1002",
+          "country": "Latvia",
+          "geoPoint": {
+            "lat": 56.946,
+            "lon": 24.10589
+          }
+        },
+        {
+          "facility": "CICUM San Miguel",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "zip": "44160",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 20.66682,
+            "lon": -103.39182
+          }
+        },
+        {
+          "facility": "Unidad de Investigacion Clinica en Medicina S.C.",
+          "city": "Monterrey",
+          "state": "Nuevo León",
+          "zip": "64718",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 25.67507,
+            "lon": -100.31847
+          }
+        },
+        {
+          "facility": "Instituto Nacional de Cardiologia Dr Ignacio Chavez Rivera",
+          "city": "Mexico City",
+          "zip": "14080",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 19.42847,
+            "lon": -99.12766
+          }
+        },
+        {
+          "facility": "Universidad Autonoma de Nuevo Leon, Hospital Universitario",
+          "city": "Monterrey",
+          "zip": "64460",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 25.67507,
+            "lon": -100.31847
+          }
+        },
+        {
+          "facility": "Amsterdam UMC, Locatie VUMC",
+          "city": "Amsterdam",
+          "zip": "1081 HV",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.37403,
+            "lon": 4.88969
+          }
+        },
+        {
+          "facility": "Krakowski Szpital Specjalistyczny im. Jana Pawla II",
+          "city": "Krakow",
+          "zip": "31-202",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Szpital Kliniczny Przemienienia Pańskiego UM im. Marcinkowskiego",
+          "city": "Poznań",
+          "zip": "61-848",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.40692,
+            "lon": 16.92993
+          }
+        },
+        {
+          "facility": "Uniwersytecki Szpital Kliniczny im. Jana Mikulicza-Radeckiego",
+          "city": "Wrocław",
+          "zip": "50-556",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.1,
+            "lon": 17.03333
+          }
+        },
+        {
+          "facility": "Bieganski Provincial Specialist Hospital",
+          "city": "Łódź",
+          "zip": "91-347",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.75,
+            "lon": 19.46667
+          }
+        },
+        {
+          "facility": "Hospital Garcia de Orta, EPE",
+          "city": "Almada",
+          "zip": "2805-267",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 38.67902,
+            "lon": -9.1569
+          }
+        },
+        {
+          "facility": "Hospital Pulido Valente",
+          "city": "Lisboa",
+          "zip": "1649-035",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 38.71667,
+            "lon": -9.13333
+          }
+        },
+        {
+          "facility": "CHUPorto",
+          "city": "Porto",
+          "zip": "4099-001",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 41.14961,
+            "lon": -8.61099
+          }
+        },
+        {
+          "facility": "Cardiopulmonary Research Center",
+          "city": "Guaynabo",
+          "zip": "00968",
+          "country": "Puerto Rico",
+          "geoPoint": {
+            "lat": 18.35745,
+            "lon": -66.111
+          }
+        },
+        {
+          "facility": "National University Hospital",
+          "city": "Singapore",
+          "zip": "119074",
+          "country": "Singapore",
+          "geoPoint": {
+            "lat": 1.28967,
+            "lon": 103.85007
+          }
+        },
+        {
+          "facility": "Tan Tock Seng Hospital",
+          "city": "Singapore",
+          "zip": "308433",
+          "country": "Singapore",
+          "geoPoint": {
+            "lat": 1.28967,
+            "lon": 103.85007
+          }
+        },
+        {
+          "facility": "Center of Chest Disease Johannesburg",
+          "city": "Johannesburg",
+          "zip": "2193",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.20227,
+            "lon": 28.04363
+          }
+        },
+        {
+          "facility": "Hospital Universitari Vall d'Hebron",
+          "city": "Barcelona",
+          "zip": "08035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "zip": "8036",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hosp. Universitario Gran Canaria Doctor Negrin",
+          "city": "Las Palmas de Gran Canaria",
+          "zip": "35010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 28.09973,
+            "lon": -15.41343
+          }
+        },
+        {
+          "facility": "Hospital 12 de Octubre",
+          "city": "Madrid",
+          "zip": "28014",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Universidad Autonoma de Madrid",
+          "city": "Madrid",
+          "zip": "28046",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Universitario Virgen de la Victoria",
+          "city": "Málaga",
+          "zip": "29071",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 36.72016,
+            "lon": -4.42034
+          }
+        },
+        {
+          "facility": "Hospital universtario de Salamanca",
+          "city": "Salamanca",
+          "zip": "37007",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.96882,
+            "lon": -5.66388
+          }
+        },
+        {
+          "facility": "Hosp. Universitario Marques de Valdecilla",
+          "city": "Santander",
+          "zip": "39003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.46472,
+            "lon": -3.80444
+          }
+        },
+        {
+          "facility": "Hospital Universitario de Toledo",
+          "city": "Toledo",
+          "zip": "45007",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.8581,
+            "lon": -4.02263
+          }
+        },
+        {
+          "facility": "Norrlands Universitetssjukhus",
+          "city": "Umeå",
+          "zip": "907 37",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 63.82842,
+            "lon": 20.25972
+          }
+        },
+        {
+          "facility": "Imperial College Healthcare NHS Trust",
+          "city": "London",
+          "state": "England",
+          "zip": "W12 0HS",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "Golden Jubilee National Hospital",
+          "city": "Glasgow",
+          "zip": "G81 4DY",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.86515,
+            "lon": -4.25763
+          }
+        },
+        {
+          "facility": "Royal Brompton Hospital",
+          "city": "London",
+          "zip": "SW3 6HP",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "The Newcastle upon Tyne Hospitals NHS Foundation Trust",
+          "city": "Newcastle",
+          "zip": "NE7 7DN",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 54.97328,
+            "lon": -1.61396
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-05-19",
+      "submissionTracking": {
+        "estimatedResultsFirstSubmitDate": "2024-09-06",
+        "submissionInfos": [
+          {
+            "releaseDate": "2024-09-06",
+            "resetDate": "2024-10-02",
+            "mcpReleaseN": 21
+          },
+          {
+            "releaseDate": "2024-10-09",
+            "resetDate": "2024-10-30",
+            "mcpReleaseN": 22
+          },
+          {
+            "releaseDate": "2024-11-20",
+            "resetDate": "2024-12-12",
+            "mcpReleaseN": 23
+          }
+        ]
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000081029",
+          "term": "Pulmonary Arterial Hypertension"
+        },
+        {
+          "id": "D065627",
+          "term": "Familial Primary Pulmonary Hypertension"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D006976",
+          "term": "Hypertension, Pulmonary"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ],
+      "browseLeaves": [
+        {
+          "id": "M10024",
+          "name": "Hypertension",
+          "asFound": "Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M2261",
+          "name": "Pulmonary Arterial Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M27137",
+          "name": "Respiratory Aspiration",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M10027",
+          "name": "Hypertension, Pulmonary",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M30541",
+          "name": "Familial Primary Pulmonary Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M17400",
+          "name": "Vascular Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M11168",
+          "name": "Lung Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M14977",
+          "name": "Respiratory Tract Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "T4807",
+          "name": "Pulmonary Arterial Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        }
+      ],
+      "browseBranches": [
+        {
+          "abbrev": "BC14",
+          "name": "Heart and Blood Diseases"
+        },
+        {
+          "abbrev": "All",
+          "name": "All Conditions"
+        },
+        {
+          "abbrev": "BC08",
+          "name": "Respiratory Tract (Lung and Bronchial) Diseases"
+        },
+        {
+          "abbrev": "BC23",
+          "name": "Symptoms and General Pathology"
+        },
+        {
+          "abbrev": "Rare",
+          "name": "Rare Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "browseLeaves": [
+        {
+          "id": "M324",
+          "name": "Imatinib Mesylate",
+          "relevance": "LOW"
+        }
+      ],
+      "browseBranches": [
+        {
+          "abbrev": "ANeo",
+          "name": "Antineoplastic Agents"
+        },
+        {
+          "abbrev": "All",
+          "name": "All Drugs and Chemicals"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

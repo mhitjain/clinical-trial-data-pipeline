@@ -1,0 +1,181 @@
+{
+  "clinical_study": {
+    "title": "A Study of AV-101 (Dry Powder Inhaled Imatinib) in Patients With Pulmonary Arterial Hypertension (PAH)",
+    "nct_identifier": "NCT05036135",
+    "indication": "Pulmonary Arterial Hypertension",
+    "intervention": "AV-101, Placebo",
+    "study_arms": {
+      "intervention": 3,
+      "placebo": 1
+    },
+    "number_of_participants": 202,
+    "average_age": null,
+    "age_range": [
+      "18 Years",
+      "75 Years"
+    ],
+    "interventional_drug": [
+      {
+        "name": "AV-101",
+        "dose": null,
+        "frequency": null,
+        "formulation": "dry powder inhalation"
+      },
+      {
+        "name": "Placebo",
+        "dose": null,
+        "frequency": null,
+        "formulation": "dry powder inhalation"
+      }
+    ],
+    "endpoints": [
+      "Phase 2b: Change from Baseline in Pulmonary Vascular Resistance (PVR)",
+      "Phase 3: Change from Baseline in Six Minute Walk Distance (6MWD)",
+      "Phase 2b: Change from Baseline in N-terminal pro B-type natriuretic peptide (NT-proBNP)",
+      "Phase 2b: Change from Baseline in Six Minute Walk Distance (6MWD)",
+      "Phase 2b: Time to Clinical Worsening",
+      "Phase 2b: Proportion of Subjects with Improvement in WHO Functional Class",
+      "Phase 2b: Change from Baseline in Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) Lite 2.0 Risk Score",
+      "Phase 2b: Change from Baseline in Health-Related Quality of Life emPHasis-10 Questionnaire Score",
+      "Phase 3: Change from Baseline in NT-proBNP",
+      "Phase 3: Time to Clinical Worsening",
+      "Phase 3: Proportion of Subjects with Improvement in WHO Functional Class",
+      "Phase 3: Change from Baseline in Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) Lite 2.0 Risk Score",
+      "Phase 3: Change from Baseline in Pulmonary Arterial Hypertension-Symptoms and Impact (PAH-SYMPACT) Questionnaire Score"
+    ],
+    "baseline_characteristics": []
+  },
+  "endpoints": [
+    {
+      "name": "Phase 2b: Change from Baseline in Pulmonary Vascular Resistance (PVR)",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 3: Change from Baseline in Six Minute Walk Distance (6MWD)",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 2b: Change from Baseline in N-terminal pro B-type natriuretic peptide (NT-proBNP)",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 2b: Change from Baseline in Six Minute Walk Distance (6MWD)",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 2b: Time to Clinical Worsening",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 2b: Proportion of Subjects with Improvement in WHO Functional Class",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 2b: Change from Baseline in Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) Lite 2.0 Risk Score",
+      "description": "REVEAL Lite 2.0 risk scores range from 1 to 14; a higher score represents higher risk",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 2b: Change from Baseline in Health-Related Quality of Life emPHasis-10 Questionnaire Score",
+      "description": "emPHasis-10 questionnaire scores range from 0 - 50; a higher score represents a higher symptom burden",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 3: Change from Baseline in NT-proBNP",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 3: Time to Clinical Worsening",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 3: Proportion of Subjects with Improvement in WHO Functional Class",
+      "description": "",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 3: Change from Baseline in Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) Lite 2.0 Risk Score",
+      "description": "REVEAL Lite 2.0 risk scores range from 1 to 14; a higher score represents higher risk",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Phase 3: Change from Baseline in Pulmonary Arterial Hypertension-Symptoms and Impact (PAH-SYMPACT) Questionnaire Score",
+      "description": "PAH-SYMPACT is a patient reported outcome instrument developed to assess PAH symptoms and impacts",
+      "timepoint": "24 weeks",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    }
+  ],
+  "baseline_measures": []
+}

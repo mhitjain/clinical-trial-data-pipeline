@@ -1,0 +1,82 @@
+[
+  {
+    "text": "A Study of a Mean Pulmonary Artery Pressure-Targeted Approach With Early and Rapid Treprostinil Therapy to Reverse Right Ventricular Remodeling in Participants With Pulmonary Arterial Hypertension",
+    "source_path": "protocolSection.identificationModule.briefTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "A Phase 4, Prospective, Multicenter, Single-Arm Study of a Mean Pulmonary Artery Pressure-Targeted Approach With Early and Rapid Treprostinil Therapy to Reverse Right Ventricular Remodeling in Patients With Pulmonary Arterial Hypertension: ARTISAN (Afterload Reduction To Improve Right Ventricular Structure And FuNction)",
+    "source_path": "protocolSection.identificationModule.officialTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "The primary objective of this study is to assess the effect of early and rapid treprostinil therapy for mean pulmonary artery pressure (mPAP) reduction to improve right ventricular (RV) function and reverse RV remodeling in participants with pulmonary arterial hypertension (PAH).",
+    "source_path": "protocolSection.descriptionModule.briefSummary",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants will receive parenteral treprostinil at initial dose of 1.25 nanograms/kilogram/minute (at minimum) either intravenously or subcutaneously. Based on mPAP assessments and after a minimum dose of parenteral treprostinil is reached, at Investigator's (PI's) discretion, participants may transition to oral treprostinil and continue dose uptitration for further reduction of mPAP. Based on Month 12 mPAP assessment, participants may transition from parenteral to oral treprostinil at PI's di",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "on from parenteral to oral treprostinil at PI's discretion after completion of Month 12 assessment and continue uptitration for further reduction of mPAP. If minimum dose of parenteral treprostinil is not reached at Month 6/12 at PI's discretion, uptitration of parenteral treprostinil or oral treprostinil transition may occur to maintain normal mPAP.\n\nTreprostinil therapy (parenteral or oral) may continue as tolerated toward goal of further reduction of mPAP until Month 36.",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[0].description",
+    "chunk_id": 1
+  },
+  {
+    "text": "Change From Baseline in Right Ventricular Ejection Fraction (RVEF), as Measured by Cardiac Magnetic Resonance Imaging (cMRI) at Month 12",
+    "source_path": "protocolSection.outcomesModule.primaryOutcomes[0].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Clinical improvement is defined as meeting all 3 criteria: - improvement in six-minute walk distance (6MWD) increase \u226510% or \u226530 meters; - improvement in World Health Organization (WHO) functional class (FC) or maintenance of WHO FC I/II; - improvement in N-terminal pro-brain natriuretic peptide (NT-proBNP) decrease \u226530% or \\<300 ng/liter (L).",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[1].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Change From Baseline in RV-Pulmonary Artery (PA) Coupling Estimated by the Ratio of Stroke Volume by End Systolic Volume at Month 12",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[2].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Change From Baseline in Registry to EValuate EArly and Long-Term PAH Disease Management (REVEAL) Lite 2 Risk Score at Months 12, 24, and 36",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[6].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Change From Baseline in RV-PA Coupling Estimated by the Ratio of Tricuspid Annular Plane Systolic Excursion by Pulmonary Artery Systolic Pressure (TAPSE/PASP) at Months 12, 24, and 36",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[10].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Inclusion Criteria:\n\n* Confirmed PAH (WHO Group 1) classified by one of the following subgroups:\n\n  * Idiopathic, heritable or drug/toxin induced (with the exception of amphetamine-induced PAH)\n  * Associated with repaired congenital systemic-to-pulmonary shunts (repaired \u22651 year)\n  * Associated with connective tissue disease\n  * Associated with human immunodeficiency virus infection\n* Baseline visit right heart catheterization (RHC) must also meet the following criteria:\n\n  * mPAP \\>35 mmHg\n  *",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 0
+  },
+  {
+    "text": "et the following criteria:\n\n  * mPAP \\>35 mmHg\n  * Pulmonary vascular resistance (PVR) \\>2 Wood units\n  * Pulmonary artery wedge pressure (PAWP) \u226415 mmHg\n* On a stable dose of an endothelin receptor antagonist (ERA) and/or phosphodiesterase type 5 inhibitor (PDE-5i) or soluble guanylate cyclase stimulator (sGC) therapy or if treatment na\u00efve, willing to take one of these medications in addition to study drug\n* REVEAL Lite 2 risk score \u22649\n* WHO FC II or III\n* 6MWD \\>165 meters\n\nExclusion Criteria:",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 1
+  },
+  {
+    "text": "II or III\n* 6MWD \\>165 meters\n\nExclusion Criteria:\n\nPAH-related Exclusion Criteria:\n\n* Prior or current use of epoprostenol, treprostinil, iloprost, beraprost, or selexipag\n* Positive vasoreactivity test in idiopathic, heritable, or drug/toxin induced PAH\n* Amphetamine use within the past 12 months\n* WHO Groups 2, 3, 4, and 5\n* Use of any other investigational drug, device, or therapy within 30 days of the Baseline visit\n* Moderate or severe hepatic impairment (Child-Pugh Class B and C)\n* Any ot",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 2
+  },
+  {
+    "text": "tic impairment (Child-Pugh Class B and C)\n* Any other clinically significant illness or abnormal laboratory value(s) measured during screening that, in the opinion of the Investigator, might adversely affect interpretation of the study data or participant safety (for example, active infection, chronic thromboembolic pulmonary hypertension, or acute/recent deep vein thrombosis or pulmonary embolism)\n* Chronic atrial fibrillation, multiple premature ventricular or atrial contractions of clinical s",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 3
+  },
+  {
+    "text": "e ventricular or atrial contractions of clinical significance, or any other condition that would interfere with proper cardiac gating during cMRI\n* Permanent cardiac pacemaker or automatic internal cardioverter that would interfere with conduct of cMRI\n* Metallic implant (for example, defibrillator, neurostimulator, hearing aid, permanent infusion device, implantable pump, or body plates/screws/bolts) that would interfere with conduct of cMRI\n\nCardioMEMS-related Exclusion Criteria, if applicable",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 4
+  },
+  {
+    "text": "rdioMEMS-related Exclusion Criteria, if applicable:\n\n* Previously implanted with CardioMEMS pulmonary artery Sensor or unwilling/unable to permit collection and perform upload (transmission) of pulmonary artery pressure (PAP) readings\n* Unable to take dual antiplatelet or anticoagulation therapy for 30 days after CardioMEMS PA Sensor implantation unless the participant has an indication for warfarin or direct oral anticoagulant\n\nNOTE: Other inclusion and exclusion criteria may apply.",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 5
+  }
+]

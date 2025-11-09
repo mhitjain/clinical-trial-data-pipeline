@@ -1,0 +1,243 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# API Keys and Secrets
+*.key
+*.secret
+secrets/
+credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Untitled*.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# PostgreSQL
+pgdata/
+postgres_data/
+*.dump
+
+# Downloaded Data Files
+# Keep: Small JSON files (good for examples and testing)
+# Ignore: Large PDFs and parsed content (can be regenerated)
+
+# Ignore large SEC filing PDFs and parsed content
+forms/**/*.pdf
+forms/**/*.htm
+forms/**/*.html
+parsed_chunks/**/*.json
+parsed_chunks/**/*.csv
+parsed_chunks/**/*.html
+
+# Keep small JSON metadata (useful for demos)
+# edgar_results/*.json - KEPT (uncommented)
+# trail_results/**/*.json - KEPT (uncommented)
+# formatted_trials/**/*.json - KEPT (uncommented)
+# parsed_chunks_json/**/*.json - KEPT (uncommented)
+
+# Optionally ignore matched publications if file gets too large
+# matched_pmc_publications.json
+
+# Research papers (if you add this feature)
+research_papers/**/*.pdf
+
+# Keep directory structure
+!edgar_results/.gitkeep
+!trail_results/.gitkeep
+!formatted_trials/.gitkeep
+!forms/.gitkeep
+!parsed_chunks/.gitkeep
+!parsed_chunks_json/.gitkeep
+
+# SEC Filing Data
+*.htm
+*.html
+*.xbrl
+*.xml
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.cache
+
+# Documentation builds
+docs/_build/
+docs/_static/
+docs/_templates/
+site/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Compressed files (if storing large datasets)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Temporary processing files
+temp/
+tmp/
+.temp/
+.tmp/
+
+# Model files (if you add ML models later)
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.model
+
+# Node.js (if you add any frontend later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# R (if you add R analysis)
+.Rhistory
+.RData
+.Rapp.history
+
+# System files
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Cache directories
+.cache/
+*.cache
+
+# Personal notes and scratch files
+scratch/
+notes/
+TODO.txt
+NOTES.md
+scratch.md

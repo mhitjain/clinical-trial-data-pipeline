@@ -1,0 +1,57 @@
+[
+  {
+    "text": "A Study of AV-101 (Dry Powder Inhaled Imatinib) in Patients With Pulmonary Arterial Hypertension (PAH)",
+    "source_path": "protocolSection.identificationModule.briefTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "IMPAHCT: A Phase 2b/3, Randomized, Double-Blind, Placebo-Controlled, 24-Week Dose Ranging and Confirmatory Study to Evaluate the Safety and Efficacy of AV-101 in Patients With Pulmonary Arterial Hypertension (PAH)",
+    "source_path": "protocolSection.identificationModule.officialTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "The IMPAHCT study demonstrated that while inhaled imatinib was well tolerated, it did not prove to be efficacious at any of the doses of AV-101 evaluated in the study.",
+    "source_path": "protocolSection.statusModule.whyStopped",
+    "chunk_id": 0
+  },
+  {
+    "text": "IMPAHCT: Inhaled iMatinib Pulmonary Arterial Hypertension Clinical Trial is a Phase 2b/Phase 3 study to evaluate the safety and efficacy of AV-101 (dry powder inhaled imatinib) in patients with Pulmonary Arterial Hypertension (PAH). The Phase 2b part of the study will assess three doses to establish an optimal dose for the Phase 3 part of the study. The Phase 2b primary endpoint will be the placebo corrected change in pulmonary vascular resistance (PVR). The Phase 3 primary endpoint will be the",
+    "source_path": "protocolSection.descriptionModule.briefSummary",
+    "chunk_id": 0
+  },
+  {
+    "text": "e (PVR). The Phase 3 primary endpoint will be the placebo corrected change in 6-minute walk distance (6MWD) after 24 weeks of treatment.",
+    "source_path": "protocolSection.descriptionModule.briefSummary",
+    "chunk_id": 1
+  },
+  {
+    "text": "Phase 2b: Change from Baseline in Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) Lite 2.0 Risk Score",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[4].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "emPHasis-10 questionnaire scores range from 0 - 50; a higher score represents a higher symptom burden",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[5].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Phase 3: Change from Baseline in Registry to Evaluate Early and Long-Term PAH Disease Management (REVEAL) Lite 2.0 Risk Score",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[9].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Phase 3: Change from Baseline in Pulmonary Arterial Hypertension-Symptoms and Impact (PAH-SYMPACT) Questionnaire Score",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[10].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Key Inclusion Criteria\n\n* PAH belonging to one of the subgroups:\n\n  1. I/HPAH, PAH-CTD,\n  2. PAH due to drugs and/or toxins/chemicals (having been in the care of the investigator for at least one year with no relapses of drug or toxin/chemical abuse),\n  3. HIV associated or\n  4. PAH due to repaired congenital heart disease (at least 1 year since repair)\n* World Health Organization (WHO) Functional Class II, III or IV symptoms\n* Stable concomitant background therapy of at least one PAH approved m",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 0
+  },
+  {
+    "text": "background therapy of at least one PAH approved medications\n* Able to walk a distance of at least 100 m but no more than 475 m during the Screening 6-minute walk tests.\n\nKey Exclusion Criteria\n\n* Pulmonary hypertension (PH) belonging to Groups 2 to 5\n* A history of left-sided heart disease\n* Pregnant or breast-feeding females\n\nAdditional criteria may apply, per protocol",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 1
+  }
+]

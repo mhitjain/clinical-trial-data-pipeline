@@ -1,0 +1,207 @@
+[
+  {
+    "text": "Inhaled Imatinib Pulmonary Arterial Hypertension Clinical Trial - Follow Up Long Term Extension (IMPAHCT-FUL)",
+    "source_path": "protocolSection.identificationModule.briefTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "A Long-Term Extension, Multi-Center Safety Study of AV-101 in Subjects With Pulmonary Arterial Hypertension (PAH) Who Have Completed Study AV-101-002 (IMPAHCT-FUL)",
+    "source_path": "protocolSection.identificationModule.officialTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "Results from the parent study (IMPAHCT) demonstrated that while inhaled imatinib was well tolerated, it did not prove to be efficacious at any of the doses of AV-101 evaluated in the study.",
+    "source_path": "protocolSection.statusModule.whyStopped",
+    "chunk_id": 0
+  },
+  {
+    "text": "IMPAHCT-FUL: Inhaled Imatinib Pulmonary Arterial Hypertension Clinical Trial - Follow Up Long Term Extension (LTE) Trial was a follow up study to establish the long-term safety of AV-101. Subjects who successfully completed the 24-week placebo-controlled parent trial (AV-101-002, NCT#05036135) were offered the opportunity to continue into this LTE study. Subjects who enrolled in the study were to receive one of three active AV-101 doses until such time as the optimal dose was selected in the par",
+    "source_path": "protocolSection.descriptionModule.briefSummary",
+    "chunk_id": 0
+  },
+  {
+    "text": "h time as the optimal dose was selected in the parent study.",
+    "source_path": "protocolSection.descriptionModule.briefSummary",
+    "chunk_id": 1
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 10 milligrams (mg) administered twice daily (BID) via dry powder inhalation.",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[1].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[2].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 10 mg in AV-101-002 received AV-101 (imatinib) 10 mg administered BID via dry powder inhalation.",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[3].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 35 mg in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[4].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 70 mg in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[5].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "An Adverse Event (AE) was defined as any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. Serious Adverse Events (SAEs) were defined as death, a life-threatening AE, inpatient hospitalization or prolongation of existing hospitalization, persistent or significant disability or incapacity, a congenital anomaly or birth defect, or an important medical event that jeopardized participant and required medical intervention to pre",
+    "source_path": "protocolSection.outcomesModule.primaryOutcomes[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "rticipant and required medical intervention to prevent 1 of the outcomes listed in this definition. A summary of other non-serious AEs and all serious AEs, regardless of causality is located in Reported AE section.",
+    "source_path": "protocolSection.outcomesModule.primaryOutcomes[0].description",
+    "chunk_id": 1
+  },
+  {
+    "text": "Key Inclusion Criteria:\n\nTo be eligible, a participant is required to be or have:\n\n* Consented to participate in the LTE and has successfully completed the placebo-controlled 24-week Study AV-101-002.\n\nKey Exclusion Criteria:\n\nSubjects meeting any of the following criteria:\n\n* The Investigator believes that it would not be in the best interest of the subject to be included in the LTE e.g., for clinical or social reasons.\n* Subjects who were not compliant with study medication in AV-101-002 as as",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 0
+  },
+  {
+    "text": "ompliant with study medication in AV-101-002 as assessed by the Investigator.",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 1
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 10 milligrams (mg) administered twice daily (BID) via dry powder inhalation.",
+    "source_path": "resultsSection.participantFlowModule.groups[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.participantFlowModule.groups[1].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.participantFlowModule.groups[2].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 10 mg in AV-101-002 received AV-101 (imatinib) 10 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.participantFlowModule.groups[3].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 35 mg in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.participantFlowModule.groups[4].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 70 mg in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.participantFlowModule.groups[5].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 10 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.baselineCharacteristicsModule.groups[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.baselineCharacteristicsModule.groups[1].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.baselineCharacteristicsModule.groups[2].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 10 mg in AV-101-002 received AV-101 (imatinib) 10 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.baselineCharacteristicsModule.groups[3].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 35 mg in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.baselineCharacteristicsModule.groups[4].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 70 mg in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.baselineCharacteristicsModule.groups[5].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "An Adverse Event (AE) was defined as any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. Serious Adverse Events (SAEs) were defined as death, a life-threatening AE, inpatient hospitalization or prolongation of existing hospitalization, persistent or significant disability or incapacity, a congenital anomaly or birth defect, or an important medical event that jeopardized participant and required medical intervention to pre",
+    "source_path": "resultsSection.outcomeMeasuresModule.outcomeMeasures[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "rticipant and required medical intervention to prevent 1 of the outcomes listed in this definition. A summary of other non-serious AEs and all serious AEs, regardless of causality is located in Reported AE section.",
+    "source_path": "resultsSection.outcomeMeasuresModule.outcomeMeasures[0].description",
+    "chunk_id": 1
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 10 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.outcomeMeasuresModule.outcomeMeasures[0].groups[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.outcomeMeasuresModule.outcomeMeasures[0].groups[1].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.outcomeMeasuresModule.outcomeMeasures[0].groups[2].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 10 mg in AV-101-002 received AV-101 (imatinib) 10 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.outcomeMeasuresModule.outcomeMeasures[0].groups[3].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 35 mg in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.outcomeMeasuresModule.outcomeMeasures[0].groups[4].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 70 mg in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.outcomeMeasuresModule.outcomeMeasures[0].groups[5].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 10 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.adverseEventsModule.eventGroups[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.adverseEventsModule.eventGroups[1].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received placebo in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.adverseEventsModule.eventGroups[2].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 10 mg in AV-101-002 received AV-101 (imatinib) 10 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.adverseEventsModule.eventGroups[3].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 35 mg in AV-101-002 received AV-101 (imatinib) 35 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.adverseEventsModule.eventGroups[4].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Participants who previously received AV-101 70 mg in AV-101-002 received AV-101 (imatinib) 70 mg administered BID via dry powder inhalation.",
+    "source_path": "resultsSection.adverseEventsModule.eventGroups[5].description",
+    "chunk_id": 0
+  }
+]

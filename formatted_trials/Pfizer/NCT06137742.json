@@ -1,0 +1,258 @@
+{
+  "clinical_study": {
+    "title": "A Study to Learn About the Study Medicine Called PF-07868489 in Healthy Adult People and in People With Pulmonary Arterial Hypertension",
+    "nct_identifier": "NCT06137742",
+    "indication": "Pulmonary Arterial Hypertension",
+    "intervention": "PF-07868489, Placebo for PF-07868489",
+    "study_arms": {
+      "intervention": 1,
+      "placebo": 1
+    },
+    "number_of_participants": 90,
+    "average_age": null,
+    "age_range": [
+      "18 Years",
+      "65 Years"
+    ],
+    "interventional_drug": [
+      {
+        "name": "PF-07868489",
+        "dose": null,
+        "frequency": null,
+        "formulation": null
+      },
+      {
+        "name": "Placebo for PF-07868489",
+        "dose": null,
+        "frequency": null,
+        "formulation": "Placebo"
+      }
+    ],
+    "endpoints": [
+      "Number of Participants with Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "Number of Participants With Change From Baseline in Laboratory Tests Results",
+      "Number of Participants With Vital Sign Abnormalities",
+      "Number of Participants With Change From Baseline in Electrocardiogram (ECG) Parameters",
+      "Number of Participants with Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "Number of Participants With Change From Baseline in Laboratory Tests Results",
+      "Number of Participants With Vital Sign Abnormalities",
+      "Number of Participants With Change From Baseline in Electrocardiogram (ECG) Parameters",
+      "Change From Baseline in N-Terminal Prohormone Brain Natriuretic Peptide (NT-proBNP) Concentration at Week24",
+      "Area Under the Plasma Concentration-time Profile From Time Zero to the Time of Last Quantifiable Concentration (AUClast)",
+      "Area Under the Curve From Time Zero to Extrapolated Infinite Time (AUCinf)",
+      "Maximum Observed Plasma Concentration (Cmax)",
+      "Time to Reach Maximum Observed Plasma Concentration (Tmax)",
+      "Incidence of Anti-Drug Antibody (ADA)",
+      "Plasma Decay Half-Life (t1/2)",
+      "Minimum Observed Plasma Trough Concentration (Cmin)",
+      "Plasma Decay Half-Life (t1/2)",
+      "Incidence of Anti-Drug Antibody (ADA)",
+      "PVR",
+      "6MWD"
+    ],
+    "baseline_characteristics": []
+  },
+  "endpoints": [
+    {
+      "name": "Number of Participants with Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "description": "Part A",
+      "timepoint": "Baseline up to Day 113.",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of Participants With Change From Baseline in Laboratory Tests Results",
+      "description": "Part A",
+      "timepoint": "Baseline up to Day 113",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of Participants With Vital Sign Abnormalities",
+      "description": "Part A",
+      "timepoint": "Baseline up to Day 113",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of Participants With Change From Baseline in Electrocardiogram (ECG) Parameters",
+      "description": "Part A",
+      "timepoint": "Baseline up to Day 113",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of Participants with Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "description": "Part B",
+      "timepoint": "Baseline up to Day 253",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of Participants With Change From Baseline in Laboratory Tests Results",
+      "description": "Part B",
+      "timepoint": "Baseline up to Day 253",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of Participants With Vital Sign Abnormalities",
+      "description": "Part B",
+      "timepoint": "Baseline up to Day 253",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Number of Participants With Change From Baseline in Electrocardiogram (ECG) Parameters",
+      "description": "Part B",
+      "timepoint": "Baseline up to Day 253",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Change From Baseline in N-Terminal Prohormone Brain Natriuretic Peptide (NT-proBNP) Concentration at Week24",
+      "description": "repeated doses",
+      "timepoint": "Baseline, Week 24",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Area Under the Plasma Concentration-time Profile From Time Zero to the Time of Last Quantifiable Concentration (AUClast)",
+      "description": "single dose",
+      "timepoint": "Pre dose, 8, 12, 24, 48,72,96,168,336 hours post dose",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Area Under the Curve From Time Zero to Extrapolated Infinite Time (AUCinf)",
+      "description": "single dose",
+      "timepoint": "Pre dose, 8, 12, 24, 48,72,96,168,336 hours post dose",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Maximum Observed Plasma Concentration (Cmax)",
+      "description": "single dose",
+      "timepoint": "Pre dose, 8, 12, 24, 48,72,96,168,336 hours post dose",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Time to Reach Maximum Observed Plasma Concentration (Tmax)",
+      "description": "single dose",
+      "timepoint": "4-7 days",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Incidence of Anti-Drug Antibody (ADA)",
+      "description": "single dose",
+      "timepoint": "Baseline and up to week 16",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Plasma Decay Half-Life (t1/2)",
+      "description": "single dose",
+      "timepoint": "Day 113",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Minimum Observed Plasma Trough Concentration (Cmin)",
+      "description": "repeat doses",
+      "timepoint": "Day 253",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Plasma Decay Half-Life (t1/2)",
+      "description": "repeat doses",
+      "timepoint": "Day 253",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "Incidence of Anti-Drug Antibody (ADA)",
+      "description": "repeated doses",
+      "timepoint": "Baseline and up to Day 253",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "PVR",
+      "description": "repeated doses",
+      "timepoint": "Baseline, Week 24",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    },
+    {
+      "name": "6MWD",
+      "description": "repeated doses",
+      "timepoint": "Baseline, Week 24",
+      "arm": null,
+      "average_value": null,
+      "upper_end": null,
+      "lower_end": null,
+      "statistical_significance": null
+    }
+  ],
+  "baseline_measures": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "text": "A Study to Learn About the Study Medicine Called PF-07868489 in Healthy Adult People and in People With Pulmonary Arterial Hypertension",
+    "source_path": "protocolSection.identificationModule.briefTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "A PHASE 1/2, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY TO EVALUATE THE SAFETY, TOLERABILITY, PHARMACOKINETICS, AND PHARMACODYNAMICS OF SINGLE ESCALATING DOSES OF PF-07868489 IN HEALTHY ADULT PARTICIPANTS AND, ADDITIONALLY, CLINICAL ACTIVITY OF REPEAT DOSES IN PARTICIPANTS WITH PULMONARY ARTERIAL HYPERTENSION",
+    "source_path": "protocolSection.identificationModule.officialTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "The purpose of the study is to learn how the study medicine called PF-07868489 is tolerated and acts in healthy adult people and people with pulmonary arterial hypertension (PAH).\n\nPart A:\n\nAn investigator- and participant-blind, sponsor-open, placebo-controlled, single ascending dose study to assess the safety, tolerability, and pharmacokinetics (PK) of PF-07868489 in healthy adult participants.\n\nPart B:\n\nA 24-week, randomized, double blind, placebo-controlled study to assess the safety, tolera",
+    "source_path": "protocolSection.descriptionModule.briefSummary",
+    "chunk_id": 0
+  },
+  {
+    "text": "cebo-controlled study to assess the safety, tolerability, PK, and pharmacodynamics (PD) of PF-07868489 in adult participants with PAH.",
+    "source_path": "protocolSection.descriptionModule.briefSummary",
+    "chunk_id": 1
+  },
+  {
+    "text": "Part A is an investigator- and participant-blind, sponsor-open, placebo-controlled, single ascending dose.\n\nPart B is a 24-week, randomized, double blind, placebo-controlled study.",
+    "source_path": "protocolSection.designModule.designInfo.maskingInfo.maskingDescription",
+    "chunk_id": 0
+  },
+  {
+    "text": "Number of Participants with Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+    "source_path": "protocolSection.outcomesModule.primaryOutcomes[0].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Number of Participants with Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+    "source_path": "protocolSection.outcomesModule.primaryOutcomes[4].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Change From Baseline in N-Terminal Prohormone Brain Natriuretic Peptide (NT-proBNP) Concentration at Week24",
+    "source_path": "protocolSection.outcomesModule.primaryOutcomes[8].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Area Under the Plasma Concentration-time Profile From Time Zero to the Time of Last Quantifiable Concentration (AUClast)",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[0].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Key Inclusion Criteria Part A:\n\n* overtly healthy\n* Body mass index (BMI) of 16 to 32 kg/m2; and a total body weight \\>50 kg.\n\nKey Exclusion Criteria Part A:\n\n* clinically significant hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurological, infections or allergic disease.\n* smoking more than 10 cigarettes (or equivalent) per day or smoking history \u226510 pack-years.\n\nKey Inclusion Criteria Part B:\n\n* diagnosis of pulmonary arterial hypertensi",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 0
+  },
+  {
+    "text": "t B:\n\n* diagnosis of pulmonary arterial hypertension (PAH)\n* stable dose of standard of care PAH vasodilators\n* BMI 16 to 32 kg/m2; and a total body weight \\>45 kg.\n* 6MWD \u2265 150 and \u2264 450.\n* Pre-randomization RHC documenting a minimum of PVR \u2265 400 dyn \u2219sec/cm5.\n\nKey Exclusion Criteria Part B:\n\n* Any medical or psychiatric condition or laboratory abnormality.\n* Stopped receiving pulmonary hypertension chronic general supportive therapy 90 days prior to Day 1.\n* Pulmonary capillary wedge pressure",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 1
+  },
+  {
+    "text": "or to Day 1.\n* Pulmonary capillary wedge pressure \\> 15 mmHg on right heart catheterization (RHC) conducted during Screening.\n* History of severe allergic or anaphylactic reaction or hypersensitivity to recombinant proteins or excipients in investigational product.\n* Major surgery within 8 weeks prior to randomization.\n* Participants who smoke more than 10 cigarettes (or equivalent) per day or has a smoking history \u226510 pack-years.",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 2
+  },
+  {
+    "text": "Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.",
+    "source_path": "protocolSection.ipdSharingStatementModule.description",
+    "chunk_id": 0
+  }
+]

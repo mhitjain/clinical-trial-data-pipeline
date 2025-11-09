@@ -1,0 +1,701 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05203510",
+      "orgStudyIdInfo": {
+        "id": "REM-PH-418"
+      },
+      "organization": {
+        "fullName": "United Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of a Mean Pulmonary Artery Pressure-Targeted Approach With Early and Rapid Treprostinil Therapy to Reverse Right Ventricular Remodeling in Participants With Pulmonary Arterial Hypertension",
+      "officialTitle": "A Phase 4, Prospective, Multicenter, Single-Arm Study of a Mean Pulmonary Artery Pressure-Targeted Approach With Early and Rapid Treprostinil Therapy to Reverse Right Ventricular Remodeling in Patients With Pulmonary Arterial Hypertension: ARTISAN (Afterload Reduction To Improve Right Ventricular Structure And FuNction)",
+      "acronym": "ARTISAN"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-08-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-04-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2028-04-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-01-10",
+      "studyFirstSubmitQcDate": "2022-01-10",
+      "studyFirstPostDateStruct": {
+        "date": "2022-01-24",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-29",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "United Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Lung Biotechnology PBC",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The primary objective of this study is to assess the effect of early and rapid treprostinil therapy for mean pulmonary artery pressure (mPAP) reduction to improve right ventricular (RV) function and reverse RV remodeling in participants with pulmonary arterial hypertension (PAH)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pulmonary Arterial Hypertension"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 52,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treprostinil",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive parenteral treprostinil at initial dose of 1.25 nanograms/kilogram/minute (at minimum) either intravenously or subcutaneously. Based on mPAP assessments and after a minimum dose of parenteral treprostinil is reached, at Investigator's (PI's) discretion, participants may transition to oral treprostinil and continue dose uptitration for further reduction of mPAP. Based on Month 12 mPAP assessment, participants may transition from parenteral to oral treprostinil at PI's discretion after completion of Month 12 assessment and continue uptitration for further reduction of mPAP. If minimum dose of parenteral treprostinil is not reached at Month 6/12 at PI's discretion, uptitration of parenteral treprostinil or oral treprostinil transition may occur to maintain normal mPAP.\n\nTreprostinil therapy (parenteral or oral) may continue as tolerated toward goal of further reduction of mPAP until Month 36.",
+          "interventionNames": [
+            "Drug: Parenteral Treprostinil",
+            "Drug: Oral Treprostinil"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Parenteral Treprostinil",
+          "description": "Parenteral treprostinil will be administered per schedule specified in the arm description.",
+          "armGroupLabels": [
+            "Treprostinil"
+          ],
+          "otherNames": [
+            "Remodulin"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Oral Treprostinil",
+          "description": "Oral treprostinil will be administered per schedule specified in the arm description.",
+          "armGroupLabels": [
+            "Treprostinil"
+          ],
+          "otherNames": [
+            "Orenitram"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Right Ventricular Ejection Fraction (RVEF), as Measured by Cardiac Magnetic Resonance Imaging (cMRI) at Month 12",
+          "timeFrame": "Baseline, Month 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline in mPAP at Month 12",
+          "timeFrame": "Baseline, Month 12"
+        },
+        {
+          "measure": "Number of Participants With Clinical Improvement From Baseline to Month 12, 24, and 36",
+          "description": "Clinical improvement is defined as meeting all 3 criteria: - improvement in six-minute walk distance (6MWD) increase ≥10% or ≥30 meters; - improvement in World Health Organization (WHO) functional class (FC) or maintenance of WHO FC I/II; - improvement in N-terminal pro-brain natriuretic peptide (NT-proBNP) decrease ≥30% or \\<300 ng/liter (L).",
+          "timeFrame": "Baseline to Months 12, 24, and 36"
+        },
+        {
+          "measure": "Change From Baseline in RV-Pulmonary Artery (PA) Coupling Estimated by the Ratio of Stroke Volume by End Systolic Volume at Month 12",
+          "timeFrame": "Baseline, Month 12"
+        },
+        {
+          "measure": "Change From Baseline in RV End-Diastolic Volume Index at Month 12",
+          "timeFrame": "Baseline, Month 12"
+        },
+        {
+          "measure": "Change From Baseline in RV Stroke Volume Index at Month 12",
+          "timeFrame": "Baseline, Month 12"
+        },
+        {
+          "measure": "Change From Baseline in 6MWD at Month 12, 24, and 36",
+          "timeFrame": "Baseline, Months 12, 24, and 36"
+        },
+        {
+          "measure": "Change From Baseline in Registry to EValuate EArly and Long-Term PAH Disease Management (REVEAL) Lite 2 Risk Score at Months 12, 24, and 36",
+          "timeFrame": "Baseline, Months 12, 24, and 36"
+        },
+        {
+          "measure": "Change From Baseline in WHO FC at Months 12, 24, and 36",
+          "timeFrame": "Baseline, Months 12, 24, and 36"
+        },
+        {
+          "measure": "Change From Baseline in NT-proBNP at Months 12, 24, and 36",
+          "timeFrame": "Baseline, Months 12, 24, and 36"
+        },
+        {
+          "measure": "Change From Baseline in Borg Dyspnea Score at Months 12, 24, and 36",
+          "timeFrame": "Baseline, Months 12, 24, and 36"
+        },
+        {
+          "measure": "Change From Baseline in RV-PA Coupling Estimated by the Ratio of Tricuspid Annular Plane Systolic Excursion by Pulmonary Artery Systolic Pressure (TAPSE/PASP) at Months 12, 24, and 36",
+          "timeFrame": "Baseline, Months 12, 24, and 36"
+        },
+        {
+          "measure": "Survival Rate: Number of Participants who Survived at Months 12, 24, and 36",
+          "timeFrame": "Baseline to Months 12, 24, and 36"
+        },
+        {
+          "measure": "Change From Baseline in mPAP at Months 24 and 36",
+          "timeFrame": "Baseline, Months 24 and 36"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed PAH (WHO Group 1) classified by one of the following subgroups:\n\n  * Idiopathic, heritable or drug/toxin induced (with the exception of amphetamine-induced PAH)\n  * Associated with repaired congenital systemic-to-pulmonary shunts (repaired ≥1 year)\n  * Associated with connective tissue disease\n  * Associated with human immunodeficiency virus infection\n* Baseline visit right heart catheterization (RHC) must also meet the following criteria:\n\n  * mPAP \\>35 mmHg\n  * Pulmonary vascular resistance (PVR) \\>2 Wood units\n  * Pulmonary artery wedge pressure (PAWP) ≤15 mmHg\n* On a stable dose of an endothelin receptor antagonist (ERA) and/or phosphodiesterase type 5 inhibitor (PDE-5i) or soluble guanylate cyclase stimulator (sGC) therapy or if treatment naïve, willing to take one of these medications in addition to study drug\n* REVEAL Lite 2 risk score ≤9\n* WHO FC II or III\n* 6MWD \\>165 meters\n\nExclusion Criteria:\n\nPAH-related Exclusion Criteria:\n\n* Prior or current use of epoprostenol, treprostinil, iloprost, beraprost, or selexipag\n* Positive vasoreactivity test in idiopathic, heritable, or drug/toxin induced PAH\n* Amphetamine use within the past 12 months\n* WHO Groups 2, 3, 4, and 5\n* Use of any other investigational drug, device, or therapy within 30 days of the Baseline visit\n* Moderate or severe hepatic impairment (Child-Pugh Class B and C)\n* Any other clinically significant illness or abnormal laboratory value(s) measured during screening that, in the opinion of the Investigator, might adversely affect interpretation of the study data or participant safety (for example, active infection, chronic thromboembolic pulmonary hypertension, or acute/recent deep vein thrombosis or pulmonary embolism)\n* Chronic atrial fibrillation, multiple premature ventricular or atrial contractions of clinical significance, or any other condition that would interfere with proper cardiac gating during cMRI\n* Permanent cardiac pacemaker or automatic internal cardioverter that would interfere with conduct of cMRI\n* Metallic implant (for example, defibrillator, neurostimulator, hearing aid, permanent infusion device, implantable pump, or body plates/screws/bolts) that would interfere with conduct of cMRI\n\nCardioMEMS-related Exclusion Criteria, if applicable:\n\n* Previously implanted with CardioMEMS pulmonary artery Sensor or unwilling/unable to permit collection and perform upload (transmission) of pulmonary artery pressure (PAP) readings\n* Unable to take dual antiplatelet or anticoagulation therapy for 30 days after CardioMEMS PA Sensor implantation unless the participant has an indication for warfarin or direct oral anticoagulant\n\nNOTE: Other inclusion and exclusion criteria may apply.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Banner University Medical Center (University of Arizona)",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85006",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "HonorHealth John C. Lincoln Medical Center",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85020",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "University of California San Francisco - Fresno",
+          "city": "Fresno",
+          "state": "California",
+          "zip": "93701",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.74773,
+            "lon": -119.77237
+          }
+        },
+        {
+          "facility": "Cedars-Sinai Medical Center",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90048",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "University of California Davis Medical Center",
+          "city": "Sacramento",
+          "state": "California",
+          "zip": "95817",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.58157,
+            "lon": -121.4944
+          }
+        },
+        {
+          "facility": "University of California San Francisco Pulmonary, Critical Care, Allergy and Sleep Medicine",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77493,
+            "lon": -122.41942
+          }
+        },
+        {
+          "facility": "Hartford Hospital",
+          "city": "Hartford",
+          "state": "Connecticut",
+          "zip": "06106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.76371,
+            "lon": -72.68509
+          }
+        },
+        {
+          "facility": "USF",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33606",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Georgia Clinical Research",
+          "city": "Austell",
+          "state": "Georgia",
+          "zip": "30106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.81261,
+            "lon": -84.63438
+          }
+        },
+        {
+          "facility": "Northwestern Memorial Hospital",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Indiana University Health North Hospital",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Community Health Network",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46219",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Brigham and Women's Hospital",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Henry Ford Health System",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33143,
+            "lon": -83.04575
+          }
+        },
+        {
+          "facility": "University of Nebraska Medical Center",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68198",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.25626,
+            "lon": -95.94043
+          }
+        },
+        {
+          "facility": "Morristown Medical Center",
+          "city": "Morristown",
+          "state": "New Jersey",
+          "zip": "07960",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.79677,
+            "lon": -74.48154
+          }
+        },
+        {
+          "facility": "University of Rochester Medical Center",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14623",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.15478,
+            "lon": -77.61556
+          }
+        },
+        {
+          "facility": "University of North Carolina at Chapel Hill",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27599",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.9132,
+            "lon": -79.05584
+          }
+        },
+        {
+          "facility": "Duke University Medical Center",
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.99403,
+            "lon": -78.89862
+          }
+        },
+        {
+          "facility": "University of Cincinnati",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45267",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12713,
+            "lon": -84.51435
+          }
+        },
+        {
+          "facility": "The Ohio State University Wexner Medical Center",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Integris Baptist Medical Center",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73112",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Oklahoma Heart Institute",
+          "city": "Tulsa",
+          "state": "Oklahoma",
+          "zip": "74104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.15398,
+            "lon": -95.99277
+          }
+        },
+        {
+          "facility": "Temple Hospital",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19140",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95233,
+            "lon": -75.16379
+          }
+        },
+        {
+          "facility": "Medical University of South Carolina",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29425",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.77657,
+            "lon": -79.93092
+          }
+        },
+        {
+          "facility": "Prisma Health",
+          "city": "Greenville",
+          "state": "South Carolina",
+          "zip": "29605",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.85262,
+            "lon": -82.39401
+          }
+        },
+        {
+          "facility": "UT Southwestern Medical Center",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75390",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "Carilion Clinic",
+          "city": "Roanoke",
+          "state": "Virginia",
+          "zip": "24014",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.27097,
+            "lon": -79.94143
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-05-19"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000081029",
+          "term": "Pulmonary Arterial Hypertension"
+        },
+        {
+          "id": "D065627",
+          "term": "Familial Primary Pulmonary Hypertension"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        },
+        {
+          "id": "D020257",
+          "term": "Ventricular Remodeling"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D006976",
+          "term": "Hypertension, Pulmonary"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D020763",
+          "term": "Pathological Conditions, Anatomical"
+        }
+      ],
+      "browseLeaves": [
+        {
+          "id": "M10024",
+          "name": "Hypertension",
+          "asFound": "Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M2261",
+          "name": "Pulmonary Arterial Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M22079",
+          "name": "Ventricular Remodeling",
+          "asFound": "Ventricular Remodeling",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M10027",
+          "name": "Hypertension, Pulmonary",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M30541",
+          "name": "Familial Primary Pulmonary Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M17400",
+          "name": "Vascular Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M11168",
+          "name": "Lung Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M14977",
+          "name": "Respiratory Tract Diseases",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M22519",
+          "name": "Pathological Conditions, Anatomical",
+          "relevance": "LOW"
+        },
+        {
+          "id": "T4807",
+          "name": "Pulmonary Arterial Hypertension",
+          "asFound": "Pulmonary Arterial Hypertension",
+          "relevance": "HIGH"
+        }
+      ],
+      "browseBranches": [
+        {
+          "abbrev": "BC14",
+          "name": "Heart and Blood Diseases"
+        },
+        {
+          "abbrev": "All",
+          "name": "All Conditions"
+        },
+        {
+          "abbrev": "BC08",
+          "name": "Respiratory Tract (Lung and Bronchial) Diseases"
+        },
+        {
+          "abbrev": "BC23",
+          "name": "Symptoms and General Pathology"
+        },
+        {
+          "abbrev": "Rare",
+          "name": "Rare Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C427248",
+          "term": "Treprostinil"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000959",
+          "term": "Antihypertensive Agents"
+        }
+      ],
+      "browseLeaves": [
+        {
+          "id": "M255601",
+          "name": "Treprostinil",
+          "asFound": "NSAID",
+          "relevance": "HIGH"
+        },
+        {
+          "id": "M4854",
+          "name": "Benzocaine",
+          "relevance": "LOW"
+        },
+        {
+          "id": "M4277",
+          "name": "Antihypertensive Agents",
+          "relevance": "LOW"
+        },
+        {
+          "id": "T433",
+          "name": "Tannic Acid",
+          "relevance": "LOW"
+        }
+      ],
+      "browseBranches": [
+        {
+          "abbrev": "AnAg",
+          "name": "Antihypertensive Agents"
+        },
+        {
+          "abbrev": "All",
+          "name": "All Drugs and Chemicals"
+        },
+        {
+          "abbrev": "CNSDep",
+          "name": "Central Nervous System Depressants"
+        },
+        {
+          "abbrev": "Ot",
+          "name": "Other Dietary Supplements"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "text": "A Study to Investigate the Safety and Efficacy of KER-012 in Combination With Background Therapy in Adult Participants With Pulmonary Arterial Hypertension (PAH) (TROPOS Study).",
+    "source_path": "protocolSection.identificationModule.briefTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "A Randomized, Phase 2, Double-blind, Placebo-controlled Study to Investigate the Safety and Efficacy of KER-012 in Combination With Background Therapy in Adult Participants With Pulmonary Arterial Hypertension (TROPOS Study)",
+    "source_path": "protocolSection.identificationModule.officialTitle",
+    "chunk_id": 0
+  },
+  {
+    "text": "Study KER-012-A201 is Phase 2, double-blind, randomized, placebo-controlled study to determine the efficacy and safety of KER-012 compared to Placebo in adults with PAH (WHO Group 1 PH) on stable background PAH therapy. The study is divided into the Screening Period, Treatment Period, Extension Period, and Follow-Up Period.",
+    "source_path": "protocolSection.descriptionModule.briefSummary",
+    "chunk_id": 0
+  },
+  {
+    "text": "This is a randomized, phase 2, double-blind, placebo-controlled study of KER-012 in combination with background therapy in participants with PAH of World Health Organization (WHO) Group 1, functional class II-III. Participants will be randomly assigned in a 2:2:2:3 ratio to receive KER-012 (Dose A), KER-012 (Dose B), KER-012 (Dose C), or placebo by subcutaneous injection (SC) every 4 weeks for a period of 24 weeks in the placebo-controlled treatment period of the study while on background therap",
+    "source_path": "protocolSection.descriptionModule.detailedDescription",
+    "chunk_id": 0
+  },
+  {
+    "text": "ent period of the study while on background therapy. Evaluations will include changes in pulmonary vascular resistance (PVR), 6-minute walk distance (6MWD), and safety parameters. Participants who have not discontinued early from the placebo-controlled treatment period and have had their post-treatment period PVR assessment will be able to continue into the 72-week extension period in which KER-012 treated participants will continue to receive their same assigned dose level from the treatment pe",
+    "source_path": "protocolSection.descriptionModule.detailedDescription",
+    "chunk_id": 1
+  },
+  {
+    "text": "eir same assigned dose level from the treatment period every 4 weeks and placebo treated participants will receive KER-012 (Dose B) every 4 weeks while on background therapy.",
+    "source_path": "protocolSection.descriptionModule.detailedDescription",
+    "chunk_id": 2
+  },
+  {
+    "text": "This is a double-blind study in which treatment assignment will be blinded for the Investigators and any personnel (other than the unblinded pharmacist or designee) involved with the study conduct or evaluation at the investigational sites, the CRO, and the Sponsor.",
+    "source_path": "protocolSection.designModule.designInfo.maskingInfo.maskingDescription",
+    "chunk_id": 0
+  },
+  {
+    "text": "KER-012 (Dose A) subcutaneously (SC) (every 4 weeks \\[Q4W\\]) Treatment Period: Dose A for 24 weeks; Extension Period: Dose A for another 72 weeks",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "KER-012 (Dose B) SC (Q4W) Treatment Period: Dose B for 24 weeks; Extension Period: Dose B for another 72 weeks",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[1].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "KER-012 (Dose C) SC (Q4W) Treatment Period: Dose C for 24 weeks; Extension Period: Dose C for another 72 weeks",
+    "source_path": "protocolSection.armsInterventionsModule.armGroups[2].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Treatment Period (24 weeks): Placebo SC (Q4W) Extension Period (72 weeks after Placebo treatment): KER-012 (Dose B) SC (Q4W)",
+    "source_path": "protocolSection.armsInterventionsModule.interventions[3].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background pulmonary arterial hypertension (PAH) therapy",
+    "source_path": "protocolSection.outcomesModule.primaryOutcomes[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Evaluate the effect of KER-012 on exercise capacity compared to Placebo in participants on background PAH therapy",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[0].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "A TEAE is any untoward medical occurrence in a study participant occurring after the initiation of a study treatment that does not necessarily have to have a causal relationship with this treatment. A TEAE can therefore be any unfavorable and unintended sign, symptom, or disease temporally associated with the use of a medicinal product, whether or not related to the medicinal product.",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[1].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "A treatment-related TEAE is any untoward medical occurrence in a study participant occurring after the initiation of a study treatment that has a causal relationship with this treatment.",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[2].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "A treatment-related TEAE is any untoward medical occurrence in a study participant occurring after the initiation of a study treatment that has a causal relationship with this treatment. A TEAE can therefore be any unfavorable and unintended sign, symptom, or disease temporally associated with the use of a medicinal product, whether or not related to the medicinal product.",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[3].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Evaluate the changes from baseline in the concentration of the PAH biomarker, NT-proBNP in blood samples",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[7].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- mPAP",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[8].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- CO",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[9].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Evaluate the effect of KER-012 on pulmonary hemodynamics compared to Placebo in participants on background PAH therapy- PAWP",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[10].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Evaluate improvement in functional assessment of KER-012 compared to Placebo in participants on background PAH therapy",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[11].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Number of participants who experienced events indicative of clinical worsening of pulmonary arterial hypertension (PAH)",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[12].measure",
+    "chunk_id": 0
+  },
+  {
+    "text": "Events that indicate clinical worsening of PAH include death, non-elective PAH-related hospitalization and/or right heart failure inclusive of lung or heart/lung transplant, or atrial septostomy, need to initiate an approved PAH SOC rescue therapy, or functional deterioration (worsened WHO Functional Class AND 15% decrease in 6MWD).",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[12].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Proportion of participants who achieve improvement/or maintain low risk in ESC/ ERC 4-strata risk category assessment",
+    "source_path": "protocolSection.outcomesModule.secondaryOutcomes[15].description",
+    "chunk_id": 0
+  },
+  {
+    "text": "Inclusion Criteria:\n\n* Adult participants \u2265 18 years of age\n* Symptomatic World Health Organization (WHO) Group 1 Pulmonary Hypertension (PH)(PAH) classified by one of the following subgroups:\n\n  * Idiopathic pulmonary arterial hypertension (IPAH);\n  * Heritable pulmonary arterial hypertension (HPAH);\n  * Associated with drugs and toxins;\n  * PAH associated with:\n\n    * Connective tissue disease\n    * Congenital systemic-pulmonary intracardiac shunt\n* Has the following hemodynamic parameters tha",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 0
+  },
+  {
+    "text": "unt\n* Has the following hemodynamic parameters that are consistent with the diagnosis of PAH:\n\n  * Mean pulmonary arterial pressure (mPAP) \\> 20 mmHg at rest, AND\n  * Pulmonary artery wedge pressure (PAWP) \u2264 15 mmHg, AND\n  * PVR \u2265 5 Wood Units (400 dyn\u00b7sec\u00b7cm-5)\n* Has WHO/New York Heart Association (NYHA) Functional Class (FC) II or III symptoms as assessed by the Investigator\n* Must be on a stable PAH background therapy with either an endothelin-receptor antagonist (ERA) and/or a phosphodiester",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 1
+  },
+  {
+    "text": "-receptor antagonist (ERA) and/or a phosphodiesterase-5 inhibitor (PDE5-I) or soluble guanylate cyclase (sGC) stimulator and/or prostacyclin analogue or receptor agonist (oral/inhaled/SC/intravenous)\n* 6MWD \u2265 150 and \u2264 500 meters at screening\n* Provide written (signed and dated) informed consent form before the initiation of any Screening tests or procedures\n\nExclusion Criteria:\n\n* Evidence or history of left ventricular dysfunction and/or clinically significant cardiac disease\n* Has pulmonary f",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 2
+  },
+  {
+    "text": "ally significant cardiac disease\n* Has pulmonary function tests (PFTs) with evidence of significant obstructive or parenchymal lung disease\n* Evidence of thromboembolic disease assessed by ventilation perfusion (V/Q) lung scan or other local standard of care diagnostic evaluation at the time of PAH diagnosis or after\n* Has uncontrolled systemic hypertension\n* Hemoglobin \\< 9 g/dL at Screening\n* Prior heart or heart-lung transplants, active on the lung transplant list, or life expectancy of \\< 12",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 3
+  },
+  {
+    "text": "lung transplant list, or life expectancy of \\< 12 months per Investigator assessment\n* Diagnosis of pulmonary veno-occlusive disease or pulmonary capillary hemangiomatosis\n* Initiation or discontinuation of an exercise program for cardiopulmonary rehabilitation within 90 days prior to Baseline or planned initiation during the study\n* Prior participation in a KER-012 study or prior treatment with a therapy targeting TGF-\u03b2 superfamily (e.g. sotatercept)\n* Prior participation in another interventi",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 4
+  },
+  {
+    "text": "rcept)\n* Prior participation in another interventional clinical study with medicinal products within 30 days or 5 half-lives prior to Screening, whichever is longer",
+    "source_path": "protocolSection.eligibilityModule.eligibilityCriteria",
+    "chunk_id": 5
+  }
+]
